@@ -16,9 +16,16 @@ tags:
 ### 软路由/网关模式
 openwrt + ss: <https://openwrt.org/> 
 
-ClashX pro: https://docs.cfw.lbyczf.com/contents/ui.html 
+ClashX pro: 
 
-surge: 
+https://docs.cfw.lbyczf.com/contents/ui.html
+
+https://gitbook.skicat.io/mac/clash-mac 
+
+https://github.com/yichengchen/clashX 
+
+
+Surge: 
 
 
 ### 软件模式
