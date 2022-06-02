@@ -16,6 +16,18 @@ tags:
 ### 软路由/网关模式
 openwrt + ss: <https://openwrt.org/> 
 
+#### Win
+v2rayN 
+
+<https://github.com/2dust/v2rayN> 
+
+<https://gitbook.skicat.io/windows/v2rayn>
+
+clash
+
+<https://gitbook.skicat.io/windows/clash-windows>
+
+#### Mac
 ClashX pro: 
 
 https://docs.cfw.lbyczf.com/contents/ui.html
