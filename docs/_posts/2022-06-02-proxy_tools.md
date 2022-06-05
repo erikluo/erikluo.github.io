@@ -14,7 +14,10 @@ tags:
 ### 硬路由模式
 
 ### 软路由/网关模式
-openwrt + ss: <https://openwrt.org/> 
+- openwrt + ss: 
+ <https://openwrt.org/> 
+- shadowsocks + dnsmasq + ipset + iptables 
+ <https://github.com/Witee/Note-shadowsocks>
 
 #### Win
 v2rayN 
