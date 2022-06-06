@@ -22,8 +22,12 @@ tags:
 
 - openwrt + ss: 
  <https://openwrt.org/> 
-- shadowsocks + dnsmasq + ipset + iptables 
+ 
+- shadowsocks + dnsmasq + ipset + iptables + ss-redir 
  <https://github.com/Witee/Note-shadowsocks>
+ 
+- shadowsocks + dnsmasq + route + tuntap   
+
 
 #### Win
 v2rayN 
