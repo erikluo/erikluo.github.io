@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "常用代理软件整理"
+title: "梯子/机场方案整理"
 subtitle: ""
 author: "erikluo"
 header-img: ""
@@ -10,10 +10,16 @@ tags:
   - proxy
 ---
 
-## 梯子/机场
-### 硬路由模式
+## 网关模式
+### 硬路由
+> 路由器刷openwrt固件 
 
-### 软路由/网关模式
+<https://github.com/hackgfw/openwrt-gfw> 
+
+### 软路由
+
+#### Linux
+
 - openwrt + ss: 
  <https://openwrt.org/> 
 - shadowsocks + dnsmasq + ipset + iptables 
@@ -33,17 +39,19 @@ clash
 #### Mac
 ClashX pro: 
 
-https://docs.cfw.lbyczf.com/contents/ui.html
+<https://docs.cfw.lbyczf.com/contents/ui.html>
 
-https://gitbook.skicat.io/mac/clash-mac 
+<https://gitbook.skicat.io/mac/clash-mac> 
 
-https://github.com/yichengchen/clashX 
+<https://github.com/yichengchen/clashX> 
 
 
 Surge: 
 
+#### VirtualBox+openwrt
+<https://github.com/overcache/VRouter> 
 
-### 软件模式
+## 软件模式
 ss
 
 ### 
@@ -54,5 +62,8 @@ ss
 
 ### netch
 <https://github.com/netchx/netch> 
+
+## 参考资料
+<https://github.com/yangchuansheng/love-gfw>
 
 
