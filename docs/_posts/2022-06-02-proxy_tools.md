@@ -67,6 +67,9 @@ ss
 ### netch
 <https://github.com/netchx/netch> 
 
+## 搭建历程
+王者海外版（）连接 新加坡服务器，网络延迟超过400ms，导致无法排位。
+
 ## 参考资料
 <https://github.com/yangchuansheng/love-gfw>
 
