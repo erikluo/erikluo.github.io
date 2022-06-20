@@ -1,8 +1,8 @@
 ## 环境变量配置
 ```
 #p4 env
-export P4PORT=p4-lgame.oa.com:443
-export P4USER=erikluo
+export P4PORT=xx.p4.com:port
+export P4USER=admin
 export P4CONFIG=.p4config
 export P4TICKETS=.p4tickets
 ```
@@ -18,7 +18,7 @@ P4CLIENT=myproj
 ## 拉取代码到本地
 ```
  CLIENT=myproj
- p4 sync    --parallel=0 //${CLIENT}/AIProxy/...
+ p4 sync --parallel=0 //${CLIENT}/...
 ```
 
 ## 避免每次输入密码：
