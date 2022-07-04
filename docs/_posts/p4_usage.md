@@ -27,6 +27,11 @@ p4 -E P4TICKETS=.p4tickets login -a
 ```
 
 ## 一次完整的代码提交流程命令
+- 查看修改了哪些文件内容
+```
+p4 diff -du test/aa/...
+```
+
 - 修改完代码，将修改的文件添加到changelist
 ```
 p4 diff -se test/aa/... | p4 -x - edit
