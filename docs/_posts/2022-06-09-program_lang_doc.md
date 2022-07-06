@@ -26,6 +26,11 @@ python3 -m http.server 8080
 ## Golang
 - <https://www.runoob.com/go/go-functions.html>  
 
+## Rust
+- [Rust教程](https://www.runoob.com/rust/rust-tutorial.html)
+- [Rust语言圣经 github](https://github.com/sunface/rust-course)
+- [Rust语言圣经](https://course.rs/about-book.html)
+
 ## Java
 ## C#
 ## Lua
