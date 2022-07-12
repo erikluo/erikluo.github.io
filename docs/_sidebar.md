@@ -10,6 +10,7 @@
   - [k8s搭建](_posts/2022-05-29-k8s搭建.md)
   - [Nginx配置备忘](_posts/2022-05-29-Nginx配置教程.md)
   - [MySql备忘](_posts/2022-06-01-MySql.md)
+  - [监控系统](_posts/monitor_system.md)
   
 - ⚙️ 机器学习
   - [机器学习书籍](_posts/2022-06-10-ml_books.md)
