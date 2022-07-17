@@ -32,6 +32,10 @@ python3 -m http.server 8080
 - [Rust语言圣经](https://course.rs/about-book.html)
 
 ## Java
+## JavaScript
+## TypeScript
+[github](https://github.com/microsoft/TypeScript)
+[typescript教程](https://www.runoob.com/typescript/ts-tutorial.html)
 ## C#
 ## Lua
 ## Markdown
