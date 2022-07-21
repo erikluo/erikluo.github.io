@@ -32,7 +32,16 @@ python3 -m http.server 8080
 - [Rust语言圣经](https://course.rs/about-book.html)
 
 ## Java
+
 ## JavaScript
+### 跨平台框架
+#### React： 大量使用JS的扩展语法jsx.
+- [native框架](https://github.com/facebook/react-native)
+- [react-native各类学习资源汇集](https://github.com/reactnativecn/react-native-guide)
+
+#### Vue：大量使用模板技术.
+- [native框架 weex](https://github.com/alibaba/weex)
+
 ## TypeScript
 - [github](https://github.com/microsoft/TypeScript)
 - [typescript教程](https://www.runoob.com/typescript/ts-tutorial.html)
