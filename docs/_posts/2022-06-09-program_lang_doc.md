@@ -41,6 +41,7 @@ python3 -m http.server 8080
 
 #### Vue：大量使用模板技术.
 - [native框架 weex](https://github.com/alibaba/weex)
+- [weex应用-网易严选](https://github.com/zwwill/yanxuan-weex-demo)
 
 ## TypeScript
 - [github](https://github.com/microsoft/TypeScript)
