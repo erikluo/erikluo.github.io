@@ -29,6 +29,7 @@
   - [git备忘](_posts/2022-06-05-git_usage.md)
   - [p4备忘](_posts/p4_usage.md)
   - [vim备忘](_posts/2022-06-05-vim_conf.md)
+  - [bazel备忘](_posts/bazel_usage.md)
 
 - 开发工具
   - [静态网站生成工具](_posts/2022-05-29-静态网站生成工具.md)
