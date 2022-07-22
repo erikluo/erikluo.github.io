@@ -15,6 +15,7 @@
 - ⚙️ 机器学习
   - [机器学习书籍](_posts/2022-06-10-ml_books.md)
   - [Ray/Rllib](_posts/2022-06-07-ray-rllib.md)
+  - [强化学习](_posts/rl.md)
 
 - 游戏开发
   - [游戏引擎](_posts/2022-06-05-game_engine.md)
