@@ -34,6 +34,10 @@ python3 -m http.server 8080
 ## Java
 
 ## JavaScript
+- [ES6 入门教程](https://es6.ruanyifeng.com/)
+- [ ES6 教程](https://www.runoob.com/w3cnote/es6-tutorial.html)
+
+
 ### 跨平台框架
 #### React： 大量使用JS的扩展语法jsx.
 - [native框架](https://github.com/facebook/react-native)
