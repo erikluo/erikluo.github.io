@@ -32,6 +32,7 @@ python3 -m http.server 8080
 
 **web框架应用**
 - [aiohttp -> ray dashboard实现](https://github.com/ray-project/ray/)
+- [flask -> Web自建图床](https://gitee.com/staugur/picbed)
 
 
 
