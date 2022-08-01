@@ -60,6 +60,7 @@ python3 -m http.server 8080
 - [code-push-server](https://github.com/lisong/code-push-server)
 - [Android Docker Image for react native-github](https://github.com/react-native-community/docker-android)
 - [Android Docker Image for react native-dockerhub](https://hub.docker.com/r/reactnativecommunity/react-native-android)
+- [react-native grpc](https://github.com/DaniJG/react-native-grpc)
 
 #### Vue：大量使用模板技术.
 - [native框架 weex](https://github.com/alibaba/weex)
