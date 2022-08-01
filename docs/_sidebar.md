@@ -16,6 +16,7 @@
   - [机器学习书籍](_posts/2022-06-10-ml_books.md)
   - [Ray/Rllib](_posts/2022-06-07-ray-rllib.md)
   - [强化学习](_posts/rl.md)
+  - [AI知识图谱](_posts/ai_knownage_graph.md)
 
 - 游戏开发
   - [游戏引擎](_posts/2022-06-05-game_engine.md)
@@ -36,7 +37,7 @@
 - 开发工具
   - [静态网站生成工具](_posts/2022-05-29-静态网站生成工具.md)
   - [代理工具](_posts/2022-06-02-proxy_tools.md)
-
+  
 - 📚 其它
   - [Pages参考](_posts/2022-05-28-my_first.md)
   - [电子书资源](_posts/ebooks.md)
