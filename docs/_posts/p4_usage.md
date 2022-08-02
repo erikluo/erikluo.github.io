@@ -53,3 +53,7 @@ p4 change
 p4 shelve -d -c 123
 p4 submit -c 123
 ```
+- 提交代码前有可能别人也修改了文件，需要先解决冲突,再提交
+```
+p4 resolve -c 123
+```
