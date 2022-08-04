@@ -39,6 +39,12 @@ python3 -m http.server 8080
 ## Golang
 - <https://www.runoob.com/go/go-functions.html>  
 
+### 调试工具
+- gdb： 通用，不能直接反映go语言的特点，比如gorouting。
+- [dlv](https://github.com/go-delve/delve)
+
+
+
 ## Rust
 - [Rust教程](https://www.runoob.com/rust/rust-tutorial.html)
 - [Rust语言圣经 github](https://github.com/sunface/rust-course)
