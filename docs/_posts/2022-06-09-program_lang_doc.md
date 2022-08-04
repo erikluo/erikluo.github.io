@@ -43,6 +43,22 @@ python3 -m http.server 8080
 - gdb： 通用，不能直接反映go语言的特点，比如gorouting。
 - [dlv](https://github.com/go-delve/delve)
 
+### 备忘
+- 整数字符串互转
+```
+//string转成int：
+int, err := strconv.Atoi(string)
+
+//string转成int64：
+int64, err := strconv.ParseInt(string, 10, 64)
+
+//int转成string：
+string := strconv.Itoa(int)
+
+//int64转成string：
+string := strconv.FormatInt(int64,10)
+```
+
 
 
 ## Rust
