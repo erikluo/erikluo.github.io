@@ -14,6 +14,11 @@ tags:
 
 - <https://cplusplus.com/>
 
+
+**开源webserver**<br>
+- [civetweb](https://github.com/civetweb/civetweb)
+
+
 ## Python
 **启动http服务器** <br>
 ```
