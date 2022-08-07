@@ -20,6 +20,9 @@ tags:
 
 
 ## Python
+**帮助文档**<br>
+- [python builtin functions](https://docs.python.org/3/library/functions.html#func-list)
+
 **启动http服务器** <br>
 ```
 # python2
