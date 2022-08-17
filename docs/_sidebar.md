@@ -19,6 +19,9 @@
   - [强化学习](_posts/rl.md)
   - [AI知识图谱](_posts/ai_knownage_graph.md)
 
+- 移动开发
+  - [react-native](_posts/react-native.md)
+
 - 游戏开发
   - [游戏引擎](_posts/2022-06-05-game_engine.md)
 
