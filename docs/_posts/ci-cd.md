@@ -10,3 +10,4 @@
 - [argo-workflow github](https://github.com/argoproj/argo-workflows/)
 - [argo-workflow doc](https://argoproj.github.io/argo-workflows/)
 - [worflow字段定义参考文档](https://argoproj.github.io/argo-workflows/fields/)
+- [workflow 变量参考](https://argoproj.github.io/argo-workflows/variables/)
