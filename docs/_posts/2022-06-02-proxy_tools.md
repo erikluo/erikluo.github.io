@@ -67,6 +67,10 @@ ss
 ### netch
 <https://github.com/netchx/netch> 
 
+## Proxy客户端
+- tsocks
+- proxychains
+
 ## 搭建历程
 王者海外版（）连接 新加坡服务器，网络延迟超过400ms，导致无法排位。
 
