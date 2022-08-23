@@ -58,7 +58,7 @@ python3 -m http.server 8080
 
 **备忘**<br>
 - 整数字符串互转
-```
+```golang
 //string转成int
 int, err := strconv.Atoi(string)
 
