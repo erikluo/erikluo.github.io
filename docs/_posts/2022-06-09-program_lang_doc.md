@@ -52,26 +52,25 @@ python3 -m http.server 8080
 ## Golang
 - <https://www.runoob.com/go/go-functions.html>  
 
-### 调试工具
+**调试工具**<br>
 - gdb： 通用，不能直接反映go语言的特点，比如gorouting。
 - [dlv](https://github.com/go-delve/delve)
 
-### 备忘
+**备忘**<br>
 - 整数字符串互转
 ```
-//string转成int：
+//string转成int
 int, err := strconv.Atoi(string)
 
-//string转成int64：
+//string转成int64
 int64, err := strconv.ParseInt(string, 10, 64)
 
-//int转成string：
+//int转成string
 string := strconv.Itoa(int)
 
-//int64转成string：
+//int64转成string
 string := strconv.FormatInt(int64,10)
 ```
-<br>
 
 ## Java
 
