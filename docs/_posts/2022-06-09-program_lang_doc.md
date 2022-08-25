@@ -87,6 +87,12 @@ python3 -m http.server 8080
 - [native框架 weex](https://github.com/alibaba/weex)
 - [weex应用-网易严选](https://github.com/zwwill/yanxuan-weex-demo)
 
+### Nodejs
+**包管理工具**<br>
+yarn，npm 都是nodejs的包管理工具，区别
+- npm: 不用单独安装，它随 node 一起提供
+- yarn: Facebook、Google、Exponent 和 Tilde 联合推出，取代npm,  npm install -g yarn
+
 ## TypeScript
 - [github](https://github.com/microsoft/TypeScript)
 - [typescript教程](https://www.runoob.com/typescript/ts-tutorial.html)
