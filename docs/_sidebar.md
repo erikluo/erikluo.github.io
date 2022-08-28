@@ -34,6 +34,7 @@
 - Devops
   - [代码浏览工具](_posts/2022-06-05-code_in_sight.md)
   - [git备忘](_posts/2022-06-05-git_usage.md)
+  - [github使用技巧](_posts/github_skills.md)
   - [p4备忘](_posts/p4_usage.md)
   - [vim备忘](_posts/2022-06-05-vim_conf.md)
   - [bazel备忘](_posts/bazel_usage.md)
