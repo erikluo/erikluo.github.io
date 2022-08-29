@@ -18,6 +18,7 @@
   - [Ray/Rllib](_posts/2022-06-07-ray-rllib.md)
   - [强化学习](_posts/rl.md)
   - [AI知识图谱](_posts/ai_knownage_graph.md)
+  - [神经网络可视化](_posts/nn-vis.md)
 
 - 移动开发
   - [react-native](_posts/react-native.md)
