@@ -81,6 +81,7 @@ python3 -m http.server 8080
 - [react-native各类学习资源汇集-English](https://github.com/jondot/awesome-react-native)
 - [react-native-热更-react-native-code-push](https://github.com/microsoft/react-native-code-push)
 - [code-push-server](https://github.com/lisong/code-push-server)
+- [react-native-pushy-热更国内方案](https://github.com/reactnativecn/react-native-pushy/)
 - [Android Docker Image for react native-github](https://github.com/react-native-community/docker-android)
 - [Android Docker Image for react native-dockerhub](https://hub.docker.com/r/reactnativecommunity/react-native-android)
 - [react-native grpc](https://github.com/DaniJG/react-native-grpc)
