@@ -38,6 +38,21 @@ python2 -m SimpleHTTPServer 8080
 # python3
 python3 -m http.server 8080
 ```
+
+**日志方案**<br>
+- logging
+```
+import logging
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG,
+                    format='%(asctime)s - %(levelname)s - %(filename)s:%(funcName)s:%(lineno)s - %(message)s')
+
+```
+
+- loguru
+```
+from loguru import logger
+```
+
 ### python Web框架
 **web框架文档**<br>
 - [django](https://www.djangoproject.com/)
