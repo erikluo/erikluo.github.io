@@ -11,5 +11,9 @@
 ## 组件库
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements)
 
+## demo
+- [react-native-paper](https://github.com/callstack/react-native-paper)
+- [react-native-elements-app](https://github.com/react-native-elements/react-native-elements-app)
+
 ## reference
 - [rn-环境搭建](https://reactnative.dev/docs/environment-setup)
