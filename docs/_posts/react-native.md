@@ -8,6 +8,8 @@
 ## 在线开发环境
 - [Expo](https://snack.expo.dev/)
 
+## 组件库
+- [react-native-elements](https://github.com/react-native-elements/react-native-elements)
 
 ## reference
 - [rn-环境搭建](https://reactnative.dev/docs/environment-setup)
