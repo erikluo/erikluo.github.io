@@ -1,7 +1,7 @@
 ## Prometheus
 
 架构如下：
-![](https://2584451478-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LBdoxo9EmQ0bJP2BuUi%2F-LPS8BVjkRvEjV8HmbBi%2F-LPS8D1gM9qp1zu_wp8y%2Fprometheus_architecture.png?generation=1540234733609534&alt=media)
+![](img/prometheus_architecture.png)
 
 [开放指标规范定义规范](https://github.com/OpenObservability/OpenMetrics/blob/98ae26c87b1c3bcf937909a880b32c8be643cc9b/specification/OpenMetrics.md#info-1)
 
