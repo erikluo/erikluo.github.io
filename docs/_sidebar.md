@@ -3,7 +3,11 @@
   - [关于](README.md)
 
 - 📊 编程语言
-  - [C/C++](README.md)
+  - [C/C++](_posts/lang_cpp.md)
+  - [python](_posts/lang_python.md)
+  - [js](_posts/lang_js.md)
+  - [java](_posts/lang_java.md)
+  - [go](_posts/lang_go.md)
   - [编程语言文档及技巧](_posts/2022-06-09-program_lang_doc.md)
   - [如何实时查看python运行程序的堆栈](_posts/how_python_stack.md)
   
