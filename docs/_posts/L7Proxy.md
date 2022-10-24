@@ -19,7 +19,7 @@ sudo apt install -y getenvoy-envoy
 mkdir logs
 envoy -c envoy-demo.yaml --log-path logs/custom.log
 ```
--[admin](https://www.envoyproxy.io/docs/envoy/latest/start/quick-start/admin)
+- [admin](https://www.envoyproxy.io/docs/envoy/latest/start/quick-start/admin)
 ```
 admin:
   address:
