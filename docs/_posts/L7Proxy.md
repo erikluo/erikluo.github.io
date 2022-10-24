@@ -3,7 +3,7 @@
 - nginx
 - envoy
 
-## envoy
+### envoy
 - [安装](https://www.envoyproxy.io/docs/envoy/latest/start/install)
 ```
 sudo apt update
@@ -13,7 +13,7 @@ echo a077cb587a1b622e03aa4bf2f3689de14658a9497a9af2c427bba5f4cc3c4723 /usr/share
 echo "deb [arch=amd64 signed-by=/usr/share/keyrings/getenvoy-keyring.gpg] https://deb.dl.getenvoy.io/public/deb/ubuntu $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/getenvoy.list
 sudo apt update
 sudo apt install -y getenvoy-envoy
-``
+```
 - [run](https://www.envoyproxy.io/docs/envoy/latest/start/quick-start/run-envoy)
 ```
 mkdir logs
