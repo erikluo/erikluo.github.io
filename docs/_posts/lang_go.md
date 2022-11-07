@@ -12,3 +12,7 @@
 - int转成string: string := strconv.Itoa(int)
 - int64转成string: string := strconv.FormatInt(int64,10)
 
+**服务器框架**<br>
+- [zinx](https://github.com/aceld/zinx) 轻量级tcp长连接框架。
+- [easytcp](https://github.com/DarthPestilane/easytcp)
+
