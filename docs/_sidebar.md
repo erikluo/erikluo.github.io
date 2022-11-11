@@ -28,6 +28,7 @@
 
 - 移动开发
   - [react-native](_posts/react-native.md)
+  - [react-native动画方案-lottie](_posts/lottie.md)
 
 - 游戏开发
   - [游戏引擎](_posts/2022-06-05-game_engine.md)
