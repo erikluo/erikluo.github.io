@@ -12,6 +12,10 @@
 - [draftbit](https://draftbit.com/react-native-visual-builder)
 - [builderx](https://builderx.io/)
 
+## 图标素材
+- [阿里图标库](https://www.iconfont.cn/) 
+- [产品截图/图标制作](https://www.canva.cn/)
+
 ## 组件库
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements)
 
@@ -113,3 +117,4 @@ public class ReactInstanceManager {
 
 ## reference
 - [rn-环境搭建](https://reactnative.dev/docs/environment-setup)
+- [独立开发者一般怎么解决设计问题？](https://www.zhihu.com/question/35213936/answer/2265098175)
