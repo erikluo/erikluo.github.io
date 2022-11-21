@@ -1,8 +1,16 @@
 ## 机器学习平台框架
 
 ### mlflow
-- [github](https://github.com/mlflow/mlflow)
+
 
 ### kubeflow
-- [github](https://github.com/kubeflow/kubeflow)
-- [docs](https://www.kubeflow.org/docs/)
+本质是提供了一些列工具的合集，包括notebook trainer serving pipeline/workflow , 使用pipelien将任务中的工具粘合起来，形成一个处理流。
+
+## 参考资料
+- [mlflow github](https://github.com/mlflow/mlflow)
+- [kubeflow github](https://github.com/kubeflow/kubeflow)
+- [kubeflow docs](https://www.kubeflow.org/docs/)
+- [kubeflow mpi-operator](https://github.com/kubeflow/mpi-operator)
+- [kubeflow training-operator](https://github.com/kubeflow/training-operator)
+- [kubeflow ml-metadata](https://github.com/google/ml-metadata)
+- [kubeflow fairing](https://github.com/kubeflow/fairing)
