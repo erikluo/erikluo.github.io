@@ -56,9 +56,8 @@ Surge:
 <https://github.com/overcache/VRouter> 
 
 ## 软件模式
-ss
-
-### 
+- [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2)
+- [v2ray](https://github.com/v2fly/v2ray-core)
 
 ## LocalProxy
 ### ss
@@ -71,8 +70,15 @@ ss
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 ## Proxy客户端
+- netch
+- proxifier
+- shadowlink
+- shadowrocket(收费)
+
+## Proxy命令行
 - tsocks
 - proxychains
+- [sthp socks5转http](https://github.com/KaranGauswami/socks-to-http-proxy)
 
 ## 搭建历程
 王者海外版（）连接 新加坡服务器，网络延迟超过400ms，导致无法排位。
