@@ -26,6 +26,7 @@
   - [AI知识图谱](_posts/ai_knownage_graph.md)
   - [神经网络可视化](_posts/nn-vis.md)
   - [机器学习平台框架](_posts/ml_platform.md)
+  - [NLP](_posts/nlp.md)
 
 - 移动开发
   - [react-native](_posts/react-native.md)
