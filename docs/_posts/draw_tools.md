@@ -1,19 +1,19 @@
 ##  绘图工具
 
 * excalidraw
- - 免费开源
- - https://excalidraw.com/
- - https://github.com/excalidraw/excalidraw
+    - 免费开源
+    - https://excalidraw.com/
+    - https://github.com/excalidraw/excalidraw
 
 * drawio
- - 功能丰富，但图形有种说不出的丑，并且绘制起来不顺手
+    - 功能丰富，但图形有种说不出的丑，并且绘制起来不顺手
 * graphviz
 * plantuml
 * mermaid
 * matplotlib
 * 过时工具
- - word
- - ppt
- - processon
+    - word
+    - ppt
+    - processon
 
 
