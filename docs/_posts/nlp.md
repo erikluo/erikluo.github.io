@@ -8,6 +8,10 @@
 - [AI聚合网站](https://www.futurepedia.io/)
 - [开源ChatGpt替代方案](https://github.com/BlinkDL/ChatRWKV)
 
+## AI绘图
+* [disco-diffusion](https://github.com/alembics/disco-diffusion)
+* [stable-diffusion](https://github.com/CompVis/stable-diffusion)
+
 ## inference
 - [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
 - [昆仑天工](https://mp.weixin.qq.com/s/dSwaBbqy5ZKk6SJIg34eWg)
