@@ -11,6 +11,7 @@
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion)
+    - [Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
 
 ## inference
 - [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
