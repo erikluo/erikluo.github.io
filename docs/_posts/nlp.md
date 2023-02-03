@@ -5,8 +5,8 @@
 - [transformer 模型仓库](https://huggingface.co/models?sort=downloads&search=chat) 汇集了大量的训练好的模型，可直接使用。
 
 ## AIGC
-[AI聚合网站](https://www.futurepedia.io/)
-
+- [AI聚合网站](https://www.futurepedia.io/)
+- [开源ChatGpt替代方案](https://github.com/BlinkDL/ChatRWKV)
 
 ## inference
 - [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
