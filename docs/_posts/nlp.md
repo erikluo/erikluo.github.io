@@ -13,6 +13,7 @@
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - [Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
     - [模型](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+    - [提示词参考](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/)
 
 ## inference
 - [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
