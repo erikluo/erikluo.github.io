@@ -15,6 +15,18 @@
     - [模型](https://huggingface.co/CompVis/stable-diffusion-v1-4)
     - [提示词参考](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/)
 
+## LLM（大语言模型）
+* GPT-3
+* BLOOM
+    - BigScience发布并开源的自然语言模型
+    - [huggingface](https://huggingface.co/bigscience/bloom)
+* GPT-JT
+    - [huggingface](https://huggingface.co/togethercomputer)
+
+* SkyText
+    - [huggingface](https://huggingface.co/SkyWork)
+    - 昆仑天工发布
+
 ## inference
 - [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
 - [昆仑天工](https://mp.weixin.qq.com/s/dSwaBbqy5ZKk6SJIg34eWg)
