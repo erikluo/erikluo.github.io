@@ -7,6 +7,7 @@
 ## AIGC
 - [AI聚合网站](https://www.futurepedia.io/)
 - [开源ChatGpt替代方案](https://github.com/BlinkDL/ChatRWKV)
+- [LLM组合构建](https://github.com/hwchase17/langchain)
 
 ## ChatGpt
 - [ChatGPT资源汇总](https://github.com/chenweiphd/ChatGPT-Hub) 
