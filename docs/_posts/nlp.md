@@ -27,6 +27,12 @@
     - [github](https://github.com/cloneofsimo/lora)
     - [使用 LoRA 进行 Stable Diffusion 的高效参数微调](https://hub.baai.ac.cn/view/24035)
 
+* Textual Inversion（Embedding 嵌入模型）
+* Dreambooth
+* Checkpoint Merger（检查点合并）
+* Hypernetwork（超网络模型）
+* Aesthetic Gradient（审美梯度）
+
 ## LLM（大语言模型）
 * GPT-3
 * BLOOM
@@ -45,5 +51,6 @@
     - [昆仑天工](https://mp.weixin.qq.com/s/dSwaBbqy5ZKk6SJIg34eWg)
     - [魔咒百科词典](https://aitag.top/)
     - [civitai](https://civitai.com/)
+    - [万字长文讲透 AI 艺术：缘起、意义和未来（下篇）](https://foresightnews.pro/article/detail/19449)
 * Paper
     - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
