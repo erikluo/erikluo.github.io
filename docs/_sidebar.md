@@ -56,6 +56,7 @@
   - [代理工具](_posts/2022-06-02-proxy_tools.md)
   - [绘图工具](_posts/draw_tools.md)
   - [好用软件](_posts/good_soft.md)
+  - [好点子](_posts/good_idea.md)
   
 - 📚 其它
   - [Pages参考](_posts/2022-05-28-my_first.md)
