@@ -31,8 +31,11 @@
     - [huggingface](https://huggingface.co/SkyWork)
     - 昆仑天工发布
 
-## Inference
-- [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
-- [昆仑天工](https://mp.weixin.qq.com/s/dSwaBbqy5ZKk6SJIg34eWg)
-- [魔咒百科词典](https://aitag.top/)
-- [civitai](https://civitai.com/)
+## Reference
+* 文档
+    - [PyTorch-Transformers:最先进的自然语言处理库](https://www.jianshu.com/p/e4ce00a41781)
+    - [昆仑天工](https://mp.weixin.qq.com/s/dSwaBbqy5ZKk6SJIg34eWg)
+    - [魔咒百科词典](https://aitag.top/)
+    - [civitai](https://civitai.com/)
+* Paper
+    - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
