@@ -11,6 +11,7 @@
 
 ## ChatGpt
 - [ChatGPT资源汇总](https://github.com/chenweiphd/ChatGPT-Hub) 
+- [开源GPT数据标注项目](https://github.com/LAION-AI/Open-Assistant)
 
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
