@@ -21,6 +21,12 @@
     - [模型](https://huggingface.co/CompVis/stable-diffusion-v1-4)
     - [提示词参考](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/)
 
+## LLM微调
+* LoRA
+    - [lora-faster-fine-tuning-of-stable-diffusion](https://replicate.com/blog/lora-faster-fine-tuning-of-stable-diffusion)
+    - [github](https://github.com/cloneofsimo/lora)
+    - [使用 LoRA 进行 Stable Diffusion 的高效参数微调](https://hub.baai.ac.cn/view/24035)
+
 ## LLM（大语言模型）
 * GPT-3
 * BLOOM
