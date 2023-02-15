@@ -6,12 +6,13 @@
 
 ## AIGC
 - [AI聚合网站](https://www.futurepedia.io/)
-- [开源ChatGpt替代方案](https://github.com/BlinkDL/ChatRWKV)
 - [LLM组合构建](https://github.com/hwchase17/langchain)
 
 ## ChatGpt
 - [ChatGPT资源汇总](https://github.com/chenweiphd/ChatGPT-Hub) 
 - [开源GPT数据标注项目](https://github.com/LAION-AI/Open-Assistant)
+- [开源ChatGpt替代方案-ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
+- [开源GPT训练-ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
