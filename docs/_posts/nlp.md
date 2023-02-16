@@ -57,3 +57,4 @@
 * Paper
     - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
     - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+    - [Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493)
