@@ -13,6 +13,7 @@
 - [开源GPT数据标注项目](https://github.com/LAION-AI/Open-Assistant)
 - [开源ChatGpt替代方案-ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 - [开源GPT训练-ColossalAI](https://github.com/hpcaitech/ColossalAI)
+- [Auto-CoT: Automatic Chain of Thought Prompting in Large Language Models (ICLR 2023)](https://github.com/amazon-science/auto-cot)
 
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
@@ -55,3 +56,4 @@
     - [万字长文讲透 AI 艺术：缘起、意义和未来（下篇）](https://foresightnews.pro/article/detail/19449)
 * Paper
     - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+    - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
