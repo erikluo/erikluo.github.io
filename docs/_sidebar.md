@@ -33,6 +33,9 @@
   - [react-native动画方案-lottie](_posts/lottie.md)
   - [uni-app](_posts/uni-app.md)
 
+- Web开发
+  - [框架收集](_posts/web_framwork.md)
+
 - 游戏开发
   - [游戏引擎](_posts/2022-06-05-game_engine.md)
   - [游戏玩法](_posts/game_play.md)
