@@ -9,11 +9,14 @@
 - [LLM组合构建](https://github.com/hwchase17/langchain)
 
 ## ChatGpt
+- [ChatGPT使用指南](https://www.yuque.com/tomatosauce/sur15w/goqo7v447fs0kfwa)
 - [ChatGPT资源汇总](https://github.com/chenweiphd/ChatGPT-Hub) 
 - [开源GPT数据标注项目](https://github.com/LAION-AI/Open-Assistant)
 - [开源ChatGpt替代方案-ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 - [开源GPT训练-ColossalAI](https://github.com/hpcaitech/ColossalAI)
 - [Auto-CoT: Automatic Chain of Thought Prompting in Large Language Models (ICLR 2023)](https://github.com/amazon-science/auto-cot)
+- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [Prompt engineering 课程](https://learnprompting.org/)
 
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
