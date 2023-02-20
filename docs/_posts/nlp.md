@@ -54,6 +54,7 @@
 
 ## 商业化
 * [查看使用GPT3实现的AppDemo](https://gpt3demo.com/)
+* [奇点智源API文档](https://openapi.singularity-ai.com/index.html#/documentIndex)
 
 ## Reference
 * 文档
