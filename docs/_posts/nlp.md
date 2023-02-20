@@ -14,6 +14,7 @@
 - [开源GPT数据标注项目](https://github.com/LAION-AI/Open-Assistant)
 - [开源ChatGpt替代方案-ChatRWKV](https://github.com/BlinkDL/ChatRWKV)
 - [开源GPT训练-ColossalAI](https://github.com/hpcaitech/ColossalAI)
+- [开源对话式人工智能](https://github.com/LAION-AI/Open-Assistant)
 - [Auto-CoT: Automatic Chain of Thought Prompting in Large Language Models (ICLR 2023)](https://github.com/amazon-science/auto-cot)
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - [Prompt engineering 课程](https://learnprompting.org/)
