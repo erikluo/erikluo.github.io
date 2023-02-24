@@ -12,4 +12,6 @@
     - [chatgpt Web版本](https://github.com/EyuCoder/chatgpt-clone)
     - [chat-gpt-enhanced Web版本](https://github.com/JesseKartabani/chat-gpt-enhanced)
     - [GPT Prompt](https://github.com/sevazhidkov/prompts-ai)
+    - [react-gpt3-chatbot](https://github.com/Vuizur/react-gpt3-chatbot)
+    - [Goopt](https://github.com/jokenox/Goopt)
 
