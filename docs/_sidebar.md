@@ -10,6 +10,7 @@
   - [go](_posts/lang_go.md)
   - [编程语言文档及技巧](_posts/2022-06-09-program_lang_doc.md)
   - [如何实时查看python运行程序的堆栈](_posts/how_python_stack.md)
+  - [各语言实现的有价值项目汇总](_posts/lang_proj.md)
   
 - 后台架构
   - [k8s搭建](_posts/2022-05-29-k8s搭建.md)
