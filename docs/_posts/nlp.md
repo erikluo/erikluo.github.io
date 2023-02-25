@@ -47,6 +47,10 @@
 * GPT-JT
     - [huggingface](https://huggingface.co/togethercomputer)
 
+* LLaMA
+    - 脸书大语言模型
+    - [github](https://github.com/facebookresearch/llama)
+
 * SkyText
     - [huggingface](https://huggingface.co/SkyWork)
     - 昆仑天工发布
