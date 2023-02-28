@@ -8,6 +8,8 @@
   - [github](https://github.com/xiaoli1999/custom-rabbitImage)
 * [使用GPT自动生成git提交注释的vscode插件](https://github.com/pwwang/vscode-gptcommit)
 * [角色AI-Character.ai](https://beta.character.ai/)
+* [ChatGPT生成PPT](https://github.com/williamfzc/chat-gpt-ppt)
+  - [ppt生成命令行](https://github.com/marp-team/marp-cli)
 
 ### App
 * [夜视仪](https://github.com/luoxuhai/NightVision)
