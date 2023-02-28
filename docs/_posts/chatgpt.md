@@ -4,6 +4,7 @@
 ## 商业化
 * [GPT提示词交易市场](https://promptbase.com/marketplace?type=gpt3)
 
+
 ## UI
 * App
     - [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt)
@@ -15,4 +16,5 @@
     - [GPT Prompt](https://github.com/sevazhidkov/prompts-ai)
     - [react-gpt3-chatbot](https://github.com/Vuizur/react-gpt3-chatbot)
     - [Goopt](https://github.com/jokenox/Goopt)
+    - [周报生成器](https://github.com/guaguaguaxia/weekly_report)
 
