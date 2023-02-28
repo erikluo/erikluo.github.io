@@ -3,6 +3,7 @@
 
 ## 商业化
 * [GPT提示词交易市场](https://promptbase.com/marketplace?type=gpt3)
+* [用chatgpt自动生成PPT](https://github.com/williamfzc/chat-gpt-ppt)
 
 
 ## UI
