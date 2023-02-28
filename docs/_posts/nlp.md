@@ -44,6 +44,8 @@
 * BLOOM
     - BigScience发布并开源的自然语言模型
     - [huggingface](https://huggingface.co/bigscience/bloom)
+    - [Fast Inference Solutions for BLOOM](https://github.com/huggingface/transformers-bloom-inference)
+    - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
 * GPT-JT
     - [huggingface](https://huggingface.co/togethercomputer)
 
