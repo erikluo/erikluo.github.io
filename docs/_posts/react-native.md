@@ -23,6 +23,9 @@
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
     - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
 
+* 侧边栏
+    - [react-native-side-menu](https://github.com/Kureev/react-native-side-menu)
+
 ## demo
 - [react-native-paper](https://github.com/callstack/react-native-paper)
 - [react-native-elements-app](https://github.com/react-native-elements/react-native-elements-app)
