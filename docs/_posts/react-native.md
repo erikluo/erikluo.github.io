@@ -21,6 +21,7 @@
 
 * Chat
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+    - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
 
 ## demo
 - [react-native-paper](https://github.com/callstack/react-native-paper)
