@@ -19,6 +19,9 @@
 ## 组件库
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements)
 
+* Chat
+    - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+
 ## demo
 - [react-native-paper](https://github.com/callstack/react-native-paper)
 - [react-native-elements-app](https://github.com/react-native-elements/react-native-elements-app)
