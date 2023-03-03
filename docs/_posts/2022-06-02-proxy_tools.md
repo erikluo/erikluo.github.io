@@ -85,6 +85,20 @@ Surge:
 - [gost2](https://github.com/go-gost/gost)
 - [v2ray中转](https://toutyrater.github.io/advanced/vps_relay.html)
 - nginx中转
+```
+stream {
+        proxy_connect_timeout 3s;
+        upstream node {
+                server proxy.xx.com:8443;
+       }
+        server {
+            listen 8443;
+            proxy_connect_timeout 3s;
+            proxy_timeout 3s;
+            proxy_pass node;
+        }
+}
+```
 - firewalld/iptables
 
 ## 搭建历程
