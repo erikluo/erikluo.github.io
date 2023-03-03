@@ -25,3 +25,5 @@ docker run -d -p 9091:9091 prom/pushgateway "-persistence.file=push_file"
 
 ## 参考资料 
 - [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book/introduction)
+- [开放指标规范定义](https://github.com/OpenObservability/OpenMetrics/blob/98ae26c87b1c3bcf937909a880b32c8be643cc9b/specification/OpenMetrics.md#info-1)
+- [CLIENT LIBRARIES](https://prometheus.io/docs/instrumenting/clientlibs/)
