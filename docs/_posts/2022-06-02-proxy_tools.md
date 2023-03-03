@@ -83,6 +83,7 @@ Surge:
 ## 代理中转工具
 - [gost](https://github.com/ginuerzh/gost)
 - [gost2](https://github.com/go-gost/gost)
+- [v2ray中转](https://toutyrater.github.io/advanced/vps_relay.html)
 
 ## 搭建历程
 王者海外版（）连接 新加坡服务器，网络延迟超过400ms，导致无法排位。
