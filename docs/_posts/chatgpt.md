@@ -21,3 +21,6 @@
     - [Goopt](https://github.com/jokenox/Goopt)
     - [周报生成器](https://github.com/guaguaguaxia/weekly_report)
 
+## ChatGPT相关
+* [gpt_index](https://github.com/jerryjliu/gpt_index)
+
