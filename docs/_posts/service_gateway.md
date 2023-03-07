@@ -23,6 +23,7 @@
 | Haproxy |yes|C|http,https,websocket|wechat|host,path,method|yes|roundrobin/static-rr/WLC/ip_hash/url_hash/cokkie_hash|yes|
 |  Envoy |yes|C++|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Kong |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+| apisix |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Traefik |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 | Linkerd |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 | BFE |yes|Go|http,https,SPDY,HTTP/2|wechat|host,path,method|yes|轮询，哈希|yes|
@@ -38,6 +39,8 @@
     - 是一个开源的微服务 API 网关，建立在 Envoy 代理之上，为用户的多个团队快速发布，监控和更新提供支持.
     - 支持处理 Kubernetes ingress controller 和负载均衡等功能，可以与 Istio 无缝集成。
 * Apigee 商业级的API网关
+* apisix- Apache Cloud-Native API Gateway
+    - [github](https://github.com/apache/apisix)
 * bfe 百度开源的现代化、企业级的七层负载均衡系统
     - [github](https://github.com/bfenetworks/bfe)
 * Goku API网关
