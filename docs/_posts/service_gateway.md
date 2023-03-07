@@ -66,3 +66,4 @@
 - [微服务五种开源API网关实现组件对比](https://blog.51cto.com/u_11976981/5900465)
 - [Nginx限流配置](https://www.cnblogs.com/biglittleant/p/8979915.html)
 - [Nginx 的两种限流方式](https://toutiao.io/posts/r9wf3f/preview)
+- [nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)
