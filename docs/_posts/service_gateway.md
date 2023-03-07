@@ -24,6 +24,7 @@
 |  Envoy |yes|C++|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Kong |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Traefik |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+| Linkerd |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Ambassador |yes|Python/Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Tyk  |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Zuul |yes|java|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
@@ -39,6 +40,7 @@
 * KongTyk
 * KrakenD 可扩展的API网关
 * Linkerd 可扩展的服务网格
+    - [github](https://github.com/linkerd/linkerd2)
 * Nginx
 * Traefik 可扩展的HTTP服务器
 * Tyk
