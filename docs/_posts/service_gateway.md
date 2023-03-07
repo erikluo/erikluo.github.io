@@ -41,6 +41,7 @@
     - Kong是一个在 Nginx 中运行的Lua应用程序，并且可以通过lua-nginx模块实现，Kong不是用这个模块编译Nginx，而是与 OpenResty 一起发布
     - OpenResty已经包含了 lua-nginx-module， OpenResty 不是 Nginx 的分支，而是一组扩展其功能的模块。
     - 配置 RestApi/nginx.conf
+    - [kong-dashboard](https://github.com/PGBI/kong-dashboard)
 * KongTyk
 * KrakenD 可扩展的API网关
 * Linkerd 可扩展的服务网格
