@@ -39,6 +39,7 @@
 * Haproxy
     - 是一款提供高可用性、负载均衡以及基于TCP（第四层）和HTTP（第七层）应用的代理软件
     - 支持虚拟主机，它是免费、快速并且可靠的一种解决方案。 HAProxy特别适用于那些负载特大的web站点.
+    - 冗余协议（VRRP）来实现高可用.
 * Istio 可扩展的服务网格
 * Kong
     - Kong是一个在 Nginx 中运行的Lua应用程序，并且可以通过lua-nginx模块实现，Kong不是用这个模块编译Nginx，而是与 OpenResty 一起发布
