@@ -32,10 +32,14 @@
 ### 列表[按字母排列]
 * Ambassador 可扩展的API网关
     - [github](https://github.com/emissary-ingress/emissary)
+    - 是一个开源的微服务 API 网关，建立在 Envoy 代理之上，为用户的多个团队快速发布，监控和更新提供支持.
+    - 支持处理 Kubernetes ingress controller 和负载均衡等功能，可以与 Istio 无缝集成。
 * Apigee 商业级的API网关
 * Goku API网关
 * Istio 可扩展的服务网格
 * Kong
+    - Kong是一个在 Nginx 中运行的Lua应用程序，并且可以通过lua-nginx模块实现，Kong不是用这个模块编译Nginx，而是与 OpenResty 一起发布
+    - OpenResty已经包含了 lua-nginx-module， OpenResty 不是 Nginx 的分支，而是一组扩展其功能的模块。
     - 配置 RestApi/nginx.conf
 * KongTyk
 * KrakenD 可扩展的API网关
@@ -43,9 +47,12 @@
     - [github](https://github.com/linkerd/linkerd2)
 * Nginx
 * Traefik 可扩展的HTTP服务器
+    - 是一个现代 HTTP 反向代理和负载均衡器，可以轻松部署微服务
+    - Traeffik 可以与您现有的组件（Docker、Swarm，Kubernetes，Marathon，Consul，Etcd，…）集成，并自动动态配置。
 * Tyk
 * WSO2 API Microgateway
 * Zuul
+    -  是一种提供动态路由、监视、弹性、安全性等功能的边缘服务。Zuul 是 Netflix 出品的一个基于 JVM 路由和服务端的负载均衡器。
 * Gravitee
 
 
