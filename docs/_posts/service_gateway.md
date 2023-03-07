@@ -43,11 +43,6 @@
     - [github](https://github.com/apache/apisix)
     - 是一个高性能、可扩展的微服务API网关，基于 nginx（openresty）和 Lua 实现功能
     - 借鉴了Kong的思路，将Kong底层的关系型数据库（Postgres）替换成了NoSQL型的 etcd，这使得 APISIX 相较于 Kong 在性能上有了很大提升，在启用各类插件的情况下，Apache APISIX 的性能据说是 Kong 的 10 倍。
-
-作者：独奏乱序
-链接：https://www.jianshu.com/p/1b2c56687d0d
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 * bfe 百度开源的现代化、企业级的七层负载均衡系统
     - [github](https://github.com/bfenetworks/bfe)
 * Goku API网关
