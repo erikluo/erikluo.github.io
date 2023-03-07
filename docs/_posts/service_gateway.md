@@ -19,7 +19,7 @@
 
 | Column 1 |开源 |开发语言 |协议|鉴权|routing|限流|负载均衡算法|Metrics/Tracing|
 | -------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |
-|  Nginx |yes|C|http,https,websocket|wechat|host,path,method|yes|轮询/weight/ip_hash/url_hash/fair|yes|
+|  Nginx |yes|C|tcp/http,https|插件扩展|port,host,path,method|yes|轮询/weight/ip_hash/url_hash/fair|yes|
 | Haproxy |yes|C|http,https,websocket|wechat|host,path,method|yes|roundrobin/static-rr/WLC/ip_hash/url_hash/cokkie_hash|yes|
 |  Envoy |yes|C++|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Kong |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
@@ -64,3 +64,5 @@
 
 ## 参考
 - [微服务五种开源API网关实现组件对比](https://blog.51cto.com/u_11976981/5900465)
+- [Nginx限流配置](https://www.cnblogs.com/biglittleant/p/8979915.html)
+- [Nginx 的两种限流方式](https://toutiao.io/posts/r9wf3f/preview)
