@@ -19,14 +19,18 @@
 
 | Column 1 |开源 |开发语言 |协议|鉴权|routing|限流|负载均衡算法|Metrics/Tracing|
 | -------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |
-|  Kong |yes|xx|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
-|  Traefik |yes|xx|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
-|  Ambassador |yes|xx|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
-|  Tyk  |yes|xx|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
-|  Zuul |yes|xx|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Nginx |yes|C|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+| Haproxy |yes|C|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Envoy |yes|C++|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Kong |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Traefik |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Ambassador |yes|Python/Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Tyk  |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Zuul |yes|java|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 
 ### 列表[按字母排列]
 * Ambassador 可扩展的API网关
+    - [github](https://github.com/emissary-ingress/emissary)
 * Apigee 商业级的API网关
 * Goku API网关
 * Istio 可扩展的服务网格
