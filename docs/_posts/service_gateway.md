@@ -25,9 +25,12 @@
 |  Kong |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Traefik |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 | Linkerd |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+| BFE |yes|Go|http,https,SPDY,HTTP/2|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Ambassador |yes|Python/Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Tyk  |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+| gateway |yes|Go|http,grpc|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Zuul |yes|java|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  spring-cloud-gateway |yes|java|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 
 ### 列表[按字母排列]
 * Ambassador 可扩展的API网关
@@ -35,7 +38,11 @@
     - 是一个开源的微服务 API 网关，建立在 Envoy 代理之上，为用户的多个团队快速发布，监控和更新提供支持.
     - 支持处理 Kubernetes ingress controller 和负载均衡等功能，可以与 Istio 无缝集成。
 * Apigee 商业级的API网关
+* bfe 百度开源的现代化、企业级的七层负载均衡系统
+    - [github](https://github.com/bfenetworks/bfe)
 * Goku API网关
+* gateway API网关
+    - [github](https://github.com/go-kratos/gateway)
 * Haproxy
     - 是一款提供高可用性、负载均衡以及基于TCP（第四层）和HTTP（第七层）应用的代理软件
     - 支持虚拟主机，它是免费、快速并且可靠的一种解决方案。 HAProxy特别适用于那些负载特大的web站点.
@@ -52,6 +59,9 @@
     - [github](https://github.com/linkerd/linkerd2)
 * Nginx
     - [cookie会话保持模块](https://github.com/michaelneale/nginx-sticky-module)
+
+* spring-cloud-gateway 基于Spring Framework的Gateway
+    - [github](https://github.com/spring-cloud/spring-cloud-gateway)
 * Traefik 可扩展的HTTP服务器
     - 是一个现代 HTTP 反向代理和负载均衡器，可以轻松部署微服务
     - Traeffik 可以与您现有的组件（Docker、Swarm，Kubernetes，Marathon，Consul，Etcd，…）集成，并自动动态配置。
