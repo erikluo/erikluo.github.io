@@ -51,6 +51,7 @@
 * Linkerd 可扩展的服务网格
     - [github](https://github.com/linkerd/linkerd2)
 * Nginx
+    - [cookie会话保持模块](https://github.com/michaelneale/nginx-sticky-module)
 * Traefik 可扩展的HTTP服务器
     - 是一个现代 HTTP 反向代理和负载均衡器，可以轻松部署微服务
     - Traeffik 可以与您现有的组件（Docker、Swarm，Kubernetes，Marathon，Consul，Etcd，…）集成，并自动动态配置。
