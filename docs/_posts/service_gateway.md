@@ -68,3 +68,4 @@
 - [Nginx限流配置](https://www.cnblogs.com/biglittleant/p/8979915.html)
 - [Nginx 的两种限流方式](https://toutiao.io/posts/r9wf3f/preview)
 - [nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)
+- [Nginx 会话保持](https://www.jianshu.com/p/b97d276b8f6d)
