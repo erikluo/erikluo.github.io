@@ -49,9 +49,9 @@
 * GPT-JT
     - [huggingface](https://huggingface.co/togethercomputer)
 
-* LLaMA
-    - 脸书大语言模型
+* LLaMA-脸书大语言模型
     - [github](https://github.com/facebookresearch/llama)
+    - [泄漏的模型下载地址](https://github.com/shawwn/llama-dl)
 
 * SkyText
     - [huggingface](https://huggingface.co/SkyWork)
