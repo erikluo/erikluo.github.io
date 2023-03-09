@@ -8,9 +8,9 @@
 
 ## UI
 * App
-    - [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt)
-    - [chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile)
-    - [gpt-chatbot](https://github.com/cpascoli/gpt-chatbot)
+    - [react-native-chatgpt 基于expo react-native-gifted-chat](https://github.com/rgommezz/react-native-chatgpt)
+    - [chatgpt-mobile WebView版本](https://github.com/nezort11/chatgpt-mobile)
+    - [gpt-chatbot 界面丑陋](https://github.com/cpascoli/gpt-chatbot)
     - [ChatGPT-App-React-Native-TypeScript](https://github.com/Yuberley/ChatGPT-App-React-Native-TypeScript)
     - [react-native-chatgpt-tutorial](https://github.com/hoaphantn7604/react-native-chatgpt-tutorial)
 * Web
