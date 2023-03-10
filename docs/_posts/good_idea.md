@@ -17,3 +17,4 @@
 ### 工具
 * [开源剪贴板](https://cryptboard.io/)
     - [github](https://github.com/MihanEntalpo/cryptboard.io)
+* [一个命令行工具，生成一个二维码，可以把本机文件分享给局域网内的手机](https://github.com/parvardegr/sharing)
