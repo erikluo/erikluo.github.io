@@ -23,6 +23,7 @@
 
 * ReactNative
     - [react-native-fetch-stream](https://github.com/react-native-community/fetch)
+    - [react-native-sse](https://github.com/binaryminds/react-native-sse)
 
 * Reference
     - [Server-Sent Events 教程](https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
