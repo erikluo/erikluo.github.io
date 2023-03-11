@@ -27,7 +27,11 @@
     - [go-openai](https://github.com/sashabaranov/go-openai)
 * Python
 
+## 代理
+- [openai-api-proxy js](https://github.com/easychen/openai-api-proxy)
+
 
 ## ChatGPT相关
 * [gpt_index](https://github.com/jerryjliu/gpt_index)
+* [如何快速开发一个OpenAI/GPT应用](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)
 
