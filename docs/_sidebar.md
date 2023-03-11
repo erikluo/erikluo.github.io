@@ -20,6 +20,7 @@
   - [CI/CD](_posts/ci-cd.md)
   - [L7Proxy](_posts/L7Proxy.md)
   - [服务网关](_posts/service_gateway.md)
+  - [服务端http事件推送](_posts/http_service_event.md)
   
 - ⚙️ 机器学习
   - [机器学习书籍](_posts/2022-06-10-ml_books.md)
