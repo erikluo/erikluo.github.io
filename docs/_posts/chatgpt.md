@@ -22,6 +22,12 @@
     - [周报生成器](https://github.com/guaguaguaxia/weekly_report)
     - ChatGPT web H5 [前端](https://github.com/yi-ge/chatgpt-web) [python后端](https://github.com/yi-ge/chatgpt-api)
 
+## 库
+* Go
+    - [go-openai](https://github.com/sashabaranov/go-openai)
+* Python
+
+
 ## ChatGPT相关
 * [gpt_index](https://github.com/jerryjliu/gpt_index)
 
