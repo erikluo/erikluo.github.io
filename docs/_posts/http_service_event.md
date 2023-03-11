@@ -18,4 +18,5 @@
 * Go SSE库
     - [sse](https://github.com/r3labs/sse)
     - [eventsource](https://github.com/antage/eventsource)
+    - [go-sse](https://github.com/alexandrevicenzi/go-sse)
     - [使用Golang实现服务端推送SSE例子](https://github.com/JasonkayZK/go-learn/tree/sse)
