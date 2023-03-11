@@ -29,6 +29,7 @@
 
 ## 代理
 - [openai-api-proxy js](https://github.com/easychen/openai-api-proxy)
+- [go版本，不支持stream](https://github.com/geekr-dev/openai-proxy)
 
 
 ## ChatGPT相关
