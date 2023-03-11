@@ -21,5 +21,8 @@
     - [go-sse](https://github.com/alexandrevicenzi/go-sse)
     - [使用Golang实现服务端推送SSE例子](https://github.com/JasonkayZK/go-learn/tree/sse)
 
+* ReactNative
+    - [react-native-fetch-stream](https://github.com/react-native-community/fetch)
+
 * Reference
     - [Server-Sent Events 教程](https://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
