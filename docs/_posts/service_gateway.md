@@ -27,9 +27,9 @@
 
 | Column 1 |开源 |开发语言 |协议|鉴权|routing|限流|负载均衡算法|Metrics/Tracing|
 | -------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |
-|  Nginx |yes|C|tcp/http,https|插件扩展|port,host,path,method|yes|轮询/weight/ip_hash/url_hash/fair|yes|
-| Haproxy |yes|C|http,https,websocket|wechat|host,path,method|yes|roundrobin/static-rr/WLC/ip_hash/url_hash/cokkie_hash|yes|
-|  Envoy |yes|C++|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
+|  Nginx |yes|C|tcp,http(s),websocket|插件扩展|port,host,path,method|yes|轮询/weight/ip_hash/url_hash/fair|yes|
+| Haproxy |yes|C|tcp,http(s),websocket|若|host,path,method|yes|roundrobin/static-rr/WLC/ip_hash/url_hash/cokkie_hash|yes|
+|  Envoy |yes|C++|tcp,http(s),websocket|过滤器|host,path,method|yes|轮询，哈希|yes|
 |  Kong |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 | apisix |yes|Lua|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Traefik |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
