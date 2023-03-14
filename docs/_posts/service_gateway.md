@@ -39,10 +39,15 @@
 |  Tyk  |yes|Go|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 | gateway |yes|Go|http,grpc|wechat|host,path,method|yes|轮询，哈希|yes|
 | Apinfo |yes|Go|HTTP/HTTPS、gRPC、Dubbo2、SOAP|wechat|host,path,method|yes|轮询，哈希|yes|
+| caddy |yes|Go|HTTP(s)/1/2/3|wechat|host,path,method|yes|轮询，哈希|yes|
+| aeraki |yes|Go|HTTP|wechat|host,path,method|yes|轮询，哈希|yes|
 |  Zuul |yes|java|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 |  spring-cloud-gateway |yes|java|http,https,websocket|wechat|host,path,method|yes|轮询，哈希|yes|
 
 ### 列表[按字母排列]
+* aeraki
+    - [aeraki](https://github.com/aeraki-mesh/aeraki)
+    - Aeraki Mesh 提供了一种非侵入的、高度可扩展的解决方案来管理服务网格中的任何7层流量。
 * Ambassador 可扩展的API网关
     - [github](https://github.com/emissary-ingress/emissary)
     - 是一个开源的微服务 API 网关，建立在 Envoy 代理之上，为用户的多个团队快速发布，监控和更新提供支持.
@@ -56,6 +61,9 @@
     - 借鉴了Kong的思路，将Kong底层的关系型数据库（Postgres）替换成了NoSQL型的 etcd，这使得 APISIX 相较于 Kong 在性能上有了很大提升，在启用各类插件的情况下，Apache APISIX 的性能据说是 Kong 的 10 倍。
 * bfe 百度开源的现代化、企业级的七层负载均衡系统
     - [github](https://github.com/bfenetworks/bfe)
+* caddy
+    - [github](https://github.com/caddyserver/caddy)
+    - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 * Goku API网关
 * gateway API网关
     - [github](https://github.com/go-kratos/gateway)
