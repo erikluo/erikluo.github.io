@@ -16,3 +16,4 @@
     - [uuid生成器](https://github.com/google/uuid)
     - [时间工具](https://github.com/jinzhu/now)
     - [zap 日志](https://github.com/uber-go/zap)
+    - [datadog-agent 日志采集](https://github.com/DataDog/datadog-agent)
