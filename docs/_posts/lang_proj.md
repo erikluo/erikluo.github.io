@@ -17,3 +17,7 @@
     - [时间工具](https://github.com/jinzhu/now)
     - [zap 日志](https://github.com/uber-go/zap)
     - [datadog-agent 日志采集](https://github.com/DataDog/datadog-agent)
+
+* Java
+    - [zipkin 服务链路追踪](https://github.com/openzipkin/zipkin)
+    - [skywalking 服务链路追踪](https://github.com/apache/skywalking)
