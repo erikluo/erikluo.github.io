@@ -17,7 +17,12 @@
     - [时间工具](https://github.com/jinzhu/now)
     - [zap 日志](https://github.com/uber-go/zap)
     - [datadog-agent 日志采集](https://github.com/DataDog/datadog-agent)
+    - [etcd 注册中心](https://github.com/etcd-io/etcd)
+    - [consul 注册中心](https://github.com/hashicorp/consul)
 
 * Java
     - [zipkin 服务链路追踪](https://github.com/openzipkin/zipkin)
     - [skywalking 服务链路追踪](https://github.com/apache/skywalking)
+    - [eureka 注册中心](https://github.com/Netflix/eureka)
+    - [zookeeper 注册中心](https://github.com/apache/zookeeper)
+    - [nacos 注册中心](https://github.com/alibaba/nacos)
