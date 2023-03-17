@@ -52,6 +52,7 @@
 * LLaMA-脸书大语言模型
     - [github](https://github.com/facebookresearch/llama)
     - [泄漏的模型下载地址](https://github.com/shawwn/llama-dl)
+    - [如何在本地Macbook M2搭建](https://til.simonwillison.net/llms/llama-7b-m2)
 
 * SkyText
     - [huggingface](https://huggingface.co/SkyWork)
