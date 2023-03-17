@@ -20,6 +20,7 @@
     - [react-gpt3-chatbot](https://github.com/Vuizur/react-gpt3-chatbot)
     - [Goopt](https://github.com/jokenox/Goopt)
     - [周报生成器](https://github.com/guaguaguaxia/weekly_report)
+    - [智能文案小助手——览览](https://github.com/CatsAndMice/lanlan)
     - ChatGPT web H5 [前端](https://github.com/yi-ge/chatgpt-web) [python后端](https://github.com/yi-ge/chatgpt-api)
 
 ## 库
