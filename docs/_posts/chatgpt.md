@@ -6,6 +6,11 @@
 * [用chatgpt自动生成PPT](https://github.com/williamfzc/chat-gpt-ppt)
 * [Chaty – 一站式chatGPT百宝箱](https://github.com/cosin2077/chaty)
 * [一个替代 Notion AI 的浏览器插件](https://github.com/anc95/writely)
+* 非开源应用
+    - [HOTOKE AI 赛博佛祖](https://hotoke.ai/)
+    - [chatpdf- 基于chatgpt可与任何pdf聊天的工具](https://www.chatpdf.com/)
+    - [chatexcel- 基于chatgpt通过聊天操控excel](https://chatexcel.com/)
+    - [POE 聚合Chatgpt GPT-4 SAGE等多个聊天机器人 ](https://poe.com/login)
 
 
 ## UI
