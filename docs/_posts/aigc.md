@@ -1,7 +1,28 @@
 ## AIGC
 
-* AI绘图
+### AI聊天
 * ChatGPT
-* AI写代码
-    - Copilot
-    - [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
+* NewBing
+* 百度文心一言
+
+
+### AI绘画
+* Stable Diffusion
+* DALL.E 2
+* [百度文心一格](https://yige.baidu.com/)
+
+
+### AI写作
+* Notion AI
+* Copy.ai
+* Jasper.ai
+
+
+### AI编程
+* Copilot
+* [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
+* Tabnine
+
+
+### Reference
+- [TopAI](http://ai.liqi.top/cn/index.html#)
