@@ -46,6 +46,7 @@
 - 游戏开发
   - [游戏引擎](_posts/2022-06-05-game_engine.md)
   - [游戏玩法](_posts/game_play.md)
+  - [游戏后台](_posts/game_server.md)
 
 - 操作系统
   - [Linux下为sudo命令定义环境变量](_posts/2022-05-30-Linux下为sudo命令定义环境变量.md)
