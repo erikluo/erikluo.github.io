@@ -23,6 +23,9 @@
 * [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
 * Tabnine
 
+### AI数字人
+* [D-ID 可上传图片，文案，选择语种、声音等，让图说话，即生成数字虚拟人](https://studio.d-id.com/editor)
+
 
 ### Reference
 - [TopAI](http://ai.liqi.top/cn/index.html#)
