@@ -15,6 +15,14 @@
     - [chatexcel- 基于chatgpt通过聊天操控excel](https://chatexcel.com/)
     - [POE 聚合Chatgpt GPT-4 SAGE等多个聊天机器人 ](https://poe.com/login)
 
+* 工具
+    - [AI 帮个忙](https://ai-toolbox.codefuture.top/)
+    - [AIGC工具导航](https://aigc.cn/)
+* Chrome插件
+    - [AIPRM for ChatGPT 拓展官网，可以使用prompt模板](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related)
+    - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
+    - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN)
+
 
 ## UI
 * App
