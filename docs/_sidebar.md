@@ -38,6 +38,7 @@
   - [react-native问题记录](_posts/react-native-problem.md)
   - [react-native动画方案-lottie](_posts/lottie.md)
   - [uni-app](_posts/uni-app.md)
+  - [flexbox布局](_posts/flexbox.md)
 
 - Web开发
   - [框架收集](_posts/web_framwork.md)
