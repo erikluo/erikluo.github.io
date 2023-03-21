@@ -1,5 +1,8 @@
 ## Flexbox布局
-
+* 三个核心属性
+    - flexDirection 布局主轴
+    - justifyContent 主轴排列方式
+    - alignItems 次轴排列方式
 
 ## Reference
 - [使用 Flexbox 布局](https://reactnative.cn/docs/flexbox)
