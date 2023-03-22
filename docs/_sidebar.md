@@ -74,4 +74,5 @@
   - [Pages参考](_posts/2022-05-28-my_first.md)
   - [电子书资源](_posts/ebooks.md)
   - [推荐书籍](_posts/recommand_books.md)
+  - [github daily](github_daily.md)
 
