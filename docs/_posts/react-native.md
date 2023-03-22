@@ -17,7 +17,10 @@
 - [产品截图/图标制作](https://www.canva.cn/)
 
 ## 组件库
-- [react-native-elements](https://github.com/react-native-elements/react-native-elements)
+* react-native-elements
+    - [react-native-elements github](https://github.com/react-native-elements/react-native-elements)
+    - [web demo in github pages](https://react-native-elements.github.io/react-native-elements-app/)
+    - [playground](https://react-native-elements.js.org/#/)
 
 * Chat
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
