@@ -11,6 +11,10 @@
 * [一个替代 Notion AI 的浏览器插件](https://github.com/anc95/writely)
 * [大语言模型集成工具 LangChain](https://github.com/hwchase17/langchain)
     - [doc](https://langchain.readthedocs.io/en/latest/getting_started/getting_started.html)
+* [总结论文](https://github.com/kaixindelele/ChatPaper)
+* [Web应用-川虎 ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+* [一图生成梦幻房间](https://github.com/Nutlope/roomGPT)
+* [ChatGPT 快捷指令](https://github.com/rockbenben/ChatGPT-Shortcut)
 * 非开源应用
     - [HOTOKE AI 赛博佛祖](https://hotoke.ai/)
     - [chatpdf- 基于chatgpt可与任何pdf聊天的工具](https://www.chatpdf.com/)
@@ -24,6 +28,7 @@
     - [AIPRM for ChatGPT 拓展官网，可以使用prompt模板](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related)
     - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
     - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN)
+    - [translator划词翻译](https://github.com/yetone/openai-translator)
 
 
 ## UI
