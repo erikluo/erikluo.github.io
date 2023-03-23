@@ -20,8 +20,10 @@
 
 ### AI编程
 * Copilot
+* Copilot X
 * [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
 * Tabnine
+* [cursor](https://www.cursor.so/)
 
 ### AI数字人
 * [D-ID 可上传图片，文案，选择语种、声音等，让图说话，即生成数字虚拟人](https://studio.d-id.com/editor)
