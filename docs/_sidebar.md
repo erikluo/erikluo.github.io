@@ -61,6 +61,7 @@
   - [github使用技巧](_posts/github_skills.md)
   - [p4备忘](_posts/p4_usage.md)
   - [vim备忘](_posts/2022-06-05-vim_conf.md)
+  - [make备忘](_posts/make_usage.md)
   - [bazel备忘](_posts/bazel_usage.md)
 
 - 开发工具
