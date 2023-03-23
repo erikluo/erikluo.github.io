@@ -21,6 +21,7 @@
 
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
+* [visual-chatgpt](https://github.com/microsoft/visual-chatgpt)
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - [sygil Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
