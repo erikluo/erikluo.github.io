@@ -25,6 +25,7 @@
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - [sygil Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+    - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
     - [模型](https://huggingface.co/CompVis/stable-diffusion-v1-4)
     - [提示词参考](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/)
 
