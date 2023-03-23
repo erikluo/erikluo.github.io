@@ -35,6 +35,7 @@
 
 - 移动开发
   - [react-native](_posts/react-native.md)
+  - [react-native源码分析](_posts/react-native-parse.md)
   - [react-native问题记录](_posts/react-native-problem.md)
   - [react-native动画方案-lottie](_posts/lottie.md)
   - [uni-app](_posts/uni-app.md)
