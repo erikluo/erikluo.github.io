@@ -22,8 +22,8 @@
 ## AI绘图
 * [disco-diffusion](https://github.com/alembics/disco-diffusion)
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion)
-    - [Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
-    - [Stable Diffusion web UI-2](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+    - [sygil Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
+    - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [模型](https://huggingface.co/CompVis/stable-diffusion-v1-4)
     - [提示词参考](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/)
 
