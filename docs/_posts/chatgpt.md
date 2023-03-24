@@ -32,6 +32,7 @@
     - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
     - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN)
     - [translator划词翻译](https://github.com/yetone/openai-translator)
+    - [chatGPTBox](https://github.com/josStorer/chatGPTBox)
 
 
 ## UI
