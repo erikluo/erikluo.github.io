@@ -3,6 +3,7 @@
 * 定制化人设
     - 装扮 扮演 充当
     - [猫娘方法持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
+    - [openprompt](https://openprompt.co/)
 
 ## 商业化
 * [GPT提示词交易市场](https://promptbase.com/marketplace?type=gpt3)
