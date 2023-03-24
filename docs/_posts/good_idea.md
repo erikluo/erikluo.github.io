@@ -13,6 +13,7 @@
 
 ### App
 * [夜视仪](https://github.com/luoxuhai/NightVision)
+* [Alock 是一款免费用于隐藏指定 App 的应用](https://github.com/luoxuhai/Alock)
 
 ### 工具
 * [开源剪贴板](https://cryptboard.io/)
