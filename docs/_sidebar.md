@@ -32,6 +32,7 @@
   - [AIGC](_posts/aigc.md)
   - [NLP](_posts/nlp.md)
   - [ChatGPT](_posts/chatgpt.md)
+  - [ChatGLM](_posts/chatglm.md)
 
 - 移动开发
   - [react-native](_posts/react-native.md)
