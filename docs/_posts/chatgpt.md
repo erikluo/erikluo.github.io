@@ -18,6 +18,7 @@
 * [Web应用-川虎 ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 * [一图生成梦幻房间](https://github.com/Nutlope/roomGPT)
 * [ChatGPT 快捷指令](https://github.com/rockbenben/ChatGPT-Shortcut)
+* [基于向量数据库与GPT3.5的通用本地知识库方案](https://github.com/GanymedeNil/document.ai)
 * 非开源应用
     - [HOTOKE AI 赛博佛祖](https://hotoke.ai/)
     - [chatpdf- 基于chatgpt可与任何pdf聊天的工具](https://www.chatpdf.com/)
