@@ -48,14 +48,19 @@
     - [huggingface](https://huggingface.co/bigscience/bloom)
     - [Fast Inference Solutions for BLOOM](https://github.com/huggingface/transformers-bloom-inference)
     - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
+    - [BLOOM C++实现](https://github.com/NouamaneTazi/bloomz.cpp)
 * GPT-JT
     - [huggingface](https://huggingface.co/togethercomputer)
 
 * LLaMA-脸书大语言模型
-    - [github](https://github.com/facebookresearch/llama)
+    - [llama github](https://github.com/facebookresearch/llama)
     - [泄漏的模型下载地址](https://github.com/shawwn/llama-dl)
     - [如何在本地Macbook M2搭建](https://til.simonwillison.net/llms/llama-7b-m2)
     - [一键搭建基于llama的chatbot](https://github.com/skypilot-org/skypilot/tree/master/examples/llama-llm-chatbots)
+    - [Stanford Alpaca，基于LLaMA-7B 和指令微调，仅使用约 5 万条训练数据，就能达到类似 GPT-3.5的效果](https://github.com/tatsu-lab/stanford_alpaca)
+    - [Alpaca-Lora (羊驼-Lora)，使用 Lora (Low-rank Adaptation) 在LLaMA 7B 模型上微调，只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 的效果](https://github.com/tloen/alpaca-lora)
+    - [开源中文对话大模型-70亿参数-基于 Stanford Alpaca](https://github.com/LianjiaTech/BELLE)
+    - [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)
 
 * SkyText
     - [huggingface](https://huggingface.co/SkyWork)
@@ -78,3 +83,4 @@
     - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
     - [Automatic Chain of Thought Prompting in Large Language Models](https://arxiv.org/abs/2210.03493)
     - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
+    - [Alpaca-Lora 的论文地址](https://arxiv.org/abs/2106.09685)
