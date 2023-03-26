@@ -6,6 +6,7 @@
 
 * 在ScrollView中嵌入FlatList告警的问题
     - warning:VirtualizedLists should never be nested inside plain ScrollViews with the same orientation because it can break windowing and other functionality - use another VirtualizedList-backed container instead.
+    - [RN解决警告：VirtualizedLists should never be nested inside plain ScrollViews](https://blog.csdn.net/gang544043963/article/details/106525516)
     - https://stackoverflow.com/questions/58243680/react-native-another-virtualizedlist-backed-container
     - https://blog.expo.dev/react-native-flatlist-made-easy-20fca51e0327
 
