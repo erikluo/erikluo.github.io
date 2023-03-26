@@ -22,6 +22,11 @@
     - [web demo in github pages](https://react-native-elements.github.io/react-native-elements-app/)
     - [playground](https://react-native-elements.js.org/#/)
 
+* react-native-vector-icons
+    - [react-native-vector-icons github](https://github.com/oblador/react-native-vector-icons)
+    - [react-native-vector-icons directory](https://oblador.github.io/react-native-vector-icons/)
+
+
 * Chat
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
     - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
