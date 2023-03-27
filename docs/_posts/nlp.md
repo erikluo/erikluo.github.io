@@ -61,6 +61,7 @@
     - [Alpaca-Lora (羊驼-Lora)，使用 Lora (Low-rank Adaptation) 在LLaMA 7B 模型上微调，只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 的效果](https://github.com/tloen/alpaca-lora)
     - [开源中文对话大模型-70亿参数-基于 Stanford Alpaca](https://github.com/LianjiaTech/BELLE)
     - [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)
+    - [LLaMA C++实现版本](https://github.com/ggerganov/llama.cpp)
 * GLM (General Language Model)
     - [GLM](https://github.com/THUDM/GLM)
     - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
