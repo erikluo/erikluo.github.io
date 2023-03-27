@@ -1,5 +1,6 @@
 ## Prompt
 * 指令
+    - [ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt)
 * 定制化人设
     - 装扮 扮演 充当
     - [猫娘方法持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
@@ -65,7 +66,11 @@
 - [go版本，不支持stream](https://github.com/geekr-dev/openai-proxy)
 
 
+## ChatGPT插件
+* [官方文档](https://platform.openai.com/docs/plugins/introduction)
+
 ## ChatGPT相关
 * [gpt_index](https://github.com/jerryjliu/gpt_index)
 * [如何快速开发一个OpenAI/GPT应用](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)
+* [ChatGPT学习精华内容汇总](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)
 
