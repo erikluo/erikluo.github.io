@@ -67,6 +67,9 @@
     - [GLM](https://github.com/THUDM/GLM)
     - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
     - [GLM-130B](https://github.com/THUDM/GLM-130B)
+* dolly
+    - [dolly github](https://github.com/databrickslabs/dolly)
+    - [youtobe](https://www.youtube.com/watch?v=0VNeeXrJbTQ)
 
 * SkyText
     - [huggingface](https://huggingface.co/SkyWork)
