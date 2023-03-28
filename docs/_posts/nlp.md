@@ -27,6 +27,7 @@
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     - [强大GUI-基于可视化Gpraph/Node](https://github.com/comfyanonymous/ComfyUI)
     - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+    - [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
     - [模型](https://huggingface.co/CompVis/stable-diffusion-v1-4)
     - [提示词参考](https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/)
 
