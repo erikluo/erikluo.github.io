@@ -30,6 +30,10 @@
 * Chat
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
     - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
+* 状态管理
+    - redux
+    - [zustand](https://github.com/pmndrs/zustand)
+    - [concent](https://github.com/concentjs/concent)
 
 * 侧边栏
     - [react-native-side-menu](https://github.com/Kureev/react-native-side-menu)
