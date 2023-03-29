@@ -4,6 +4,8 @@
 * ChatGPT
 * NewBing
 * 百度文心一言
+* ChatGLM
+* [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 
 
 ### AI绘画
