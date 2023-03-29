@@ -10,6 +10,10 @@
     - [kubeflow docs](https://www.kubeflow.org/docs/)
     - [kubeflow与tfx的对比](https://www.springml.com/solution-overview/comparison-of-kubeflow-tfx/)
 
+* alpa
+    - [alpa github](https://github.com/alpa-projects/alpa)
+    - [doc](https://alpa.ai/)
+
 ### 课程
 - [mlops-course](https://github.com/GokuMohandas/mlops-course)
 
