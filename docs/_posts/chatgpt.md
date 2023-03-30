@@ -15,6 +15,7 @@
 * [一个替代 Notion AI 的浏览器插件](https://github.com/anc95/writely)
 * [大语言模型集成工具 LangChain](https://github.com/hwchase17/langchain)
     - [doc](https://langchain.readthedocs.io/en/latest/getting_started/getting_started.html)
+    - [大Pdf文件对话Chatbot](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 * [总结论文](https://github.com/kaixindelele/ChatPaper)
 * [Web应用-川虎 ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 * [一图生成梦幻房间](https://github.com/Nutlope/roomGPT)
