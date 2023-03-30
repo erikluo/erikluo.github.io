@@ -57,6 +57,7 @@
   - [Linux命令备忘](_posts/2022-06-05-linux_cmd.md)
   - [操作系统技巧](_posts/2022-06-14-os_helper.md)
   - [WSL2总结](_posts/win-wsl2.md)
+  - [MacOS](_posts/macos.md)
 
 - Devops
   - [代码浏览工具](_posts/2022-06-05-code_in_sight.md)
