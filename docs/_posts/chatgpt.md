@@ -60,6 +60,7 @@
 ## 库
 * Go
     - [go-openai](https://github.com/sashabaranov/go-openai)
+    - [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy)
 * Python
 
 ## 代理
