@@ -64,6 +64,7 @@
     - [开源中文对话大模型-70亿参数-基于 Stanford Alpaca](https://github.com/LianjiaTech/BELLE)
     - [Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora)
     - [LLaMA C++实现版本](https://github.com/ggerganov/llama.cpp)
+    - [gpt4all](https://github.com/nomic-ai/gpt4all)
 * GLM (General Language Model)
     - [GLM](https://github.com/THUDM/GLM)
     - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
