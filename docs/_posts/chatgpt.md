@@ -74,4 +74,5 @@
 * [gpt_index](https://github.com/jerryjliu/gpt_index)
 * [如何快速开发一个OpenAI/GPT应用](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)
 * [ChatGPT学习精华内容汇总](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)
+* [免费ChatGPT站点列表](https://github.com/xx025/carrot)
 
