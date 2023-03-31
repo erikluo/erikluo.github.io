@@ -17,6 +17,7 @@
     - [doc](https://langchain.readthedocs.io/en/latest/getting_started/getting_started.html)
     - [大Pdf文件对话Chatbot](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)
 * [总结论文](https://github.com/kaixindelele/ChatPaper)
+* [ChatGPT 学术优化](https://github.com/binary-husky/chatgpt_academic)
 * [Web应用-川虎 ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 * [一图生成梦幻房间](https://github.com/Nutlope/roomGPT)
 * [ChatGPT 快捷指令](https://github.com/rockbenben/ChatGPT-Shortcut)
