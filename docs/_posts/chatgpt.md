@@ -22,6 +22,7 @@
 * [一图生成梦幻房间](https://github.com/Nutlope/roomGPT)
 * [ChatGPT 快捷指令](https://github.com/rockbenben/ChatGPT-Shortcut)
 * [基于向量数据库与GPT3.5的通用本地知识库方案](https://github.com/GanymedeNil/document.ai)
+* [SQL Chat](https://github.com/sqlchat/sqlchat)
 * 非开源应用
     - [HOTOKE AI 赛博佛祖](https://hotoke.ai/)
     - [chatpdf- 基于chatgpt可与任何pdf聊天的工具](https://www.chatpdf.com/)
@@ -31,6 +32,7 @@
 * 工具
     - [AI 帮个忙](https://ai-toolbox.codefuture.top/)
     - [AIGC工具导航](https://aigc.cn/)
+    - [AI 研究所](https://www.aiyjs.com/)
 * Chrome插件
     - [AIPRM for ChatGPT 拓展官网，可以使用prompt模板](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related)
     - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
@@ -48,6 +50,7 @@
     - [react-native-chatgpt-tutorial](https://github.com/hoaphantn7604/react-native-chatgpt-tutorial)
 * 桌面
     - [开源的 OpenAI API 跨平台桌面客户端](https://github.com/Bin-Huang/chatbox)
+    - [ChatGPT 跨平台客户端](https://github.com/ChatGPT-Desktop/ChatGPT-Desktop)
 * Web
     - [chatgpt Web版本](https://github.com/EyuCoder/chatgpt-clone)
     - [chat-gpt-enhanced Web版本](https://github.com/JesseKartabani/chat-gpt-enhanced)
