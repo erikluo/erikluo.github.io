@@ -104,6 +104,8 @@ stream {
 ## 搭建历程
 王者海外版（）连接 新加坡服务器，网络延迟超过400ms，导致无法排位。
 
+## 工具
+* [IP地址分数查询](https://scamalytics.com/)
 ## 参考资料
 - <https://github.com/yangchuansheng/love-gfw>
 - [V2Ray 配置指南](https://toutyrater.github.io/)
