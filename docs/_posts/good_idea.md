@@ -10,6 +10,8 @@
 * [角色AI-Character.ai](https://beta.character.ai/)
 * [ChatGPT生成PPT](https://github.com/williamfzc/chat-gpt-ppt)
   - [ppt生成命令行](https://github.com/marp-team/marp-cli)
+* [AI生成房屋设计-roomGPT](https://www.roomgpt.io/)
+  - [roomGPT github](https://github.com/Nutlope/roomGPT)
 
 ### App
 * [夜视仪](https://github.com/luoxuhai/NightVision)
