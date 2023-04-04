@@ -26,6 +26,7 @@
 * [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
 * Tabnine
 * [cursor](https://www.cursor.so/)
+    - [cursor github](https://github.com/getcursor/cursor)
 
 ### AI生成视频
 * [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
