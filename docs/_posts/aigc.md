@@ -6,6 +6,7 @@
 * 百度文心一言
 * ChatGLM
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+* [FastChat](https://github.com/lm-sys/FastChat/)
 
 
 ### AI绘画
