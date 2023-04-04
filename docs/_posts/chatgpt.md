@@ -81,4 +81,8 @@
 * [ChatGPT学习精华内容汇总](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)
 * [免费ChatGPT站点列表](https://github.com/xx025/carrot)
 * [最简单快速的GPT微调](https://github.com/karpathy/nanoGPT)
+* 反封锁
+    - [给chatgpt套warp](https://cooolr.notion.site/chatgpt-warp-90500a66153c4e97938abe4ba3808b9a)
+    - [给节点套上CF的warp，彻底解决access denied error code 1020问题](https://mailberry.com.cn/2023/02/cf-solve-it-completely-error-code-1020-by-warp/)
+    - [Using CloudFlare Warp to Access ChatGPT](https://silentming.net/blog/2023/03/27/using-cfwraper/)
 
