@@ -33,10 +33,14 @@
     - [AI 帮个忙](https://ai-toolbox.codefuture.top/)
     - [AIGC工具导航](https://aigc.cn/)
     - [AI 研究所](https://www.aiyjs.com/)
+
+## Chrome插件
+* [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN)
+    - [ChatGPT for Google github](https://github.com/wong2/chatgpt-google-extension)
+    - [chathub 作者的另一个插件](https://github.com/chathub-dev/chathub)
 * Chrome插件
     - [AIPRM for ChatGPT 拓展官网，可以使用prompt模板](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related)
     - [ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
-    - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf?hl=zh-CN)
     - [translator划词翻译](https://github.com/yetone/openai-translator)
     - [chatGPTBox](https://github.com/josStorer/chatGPTBox)
 
