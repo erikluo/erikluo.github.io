@@ -13,6 +13,11 @@
 * Stable Diffusion
 * DALL.E 2
 * [百度文心一格](https://yige.baidu.com/)
+* Meta Segment Anything - 图像对象分割
+    - [github](https://github.com/facebookresearch/segment-anything)
+    - [demo](https://segment-anything.com/)
+    - [paper](https://ai.facebook.com/research/publications/segment-anything/)
+    - [blog](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)
 
 
 ### AI写作
