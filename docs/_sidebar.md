@@ -31,7 +31,7 @@
   - [机器学习平台框架](_posts/ml_platform.md)
   - [AIGC](_posts/aigc.md)
   - [NLP](_posts/nlp.md)
-  - [ChatGPT](_posts/chatgpt.md)
+  - [ChatGPT](https://github.com/erikluo/good_idea/blob/main/chatgpt.md)
   - [ChatGLM](_posts/chatglm.md)
 
 - 移动开发
