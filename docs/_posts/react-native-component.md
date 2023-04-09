@@ -18,6 +18,7 @@
 * 状态管理
     - redux
     - [react-redux](https://github.com/reduxjs/react-redux)
+    - [redux持久化](https://github.com/rt2zz/redux-persist)
     - [zustand](https://github.com/pmndrs/zustand)
     - [concent](https://github.com/concentjs/concent)
 
