@@ -14,7 +14,8 @@
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
     - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
 
-
+* 持久化
+    - [async-storage](https://github.com/react-native-async-storage/async-storage)
 * 状态管理
     - redux
     - [react-redux](https://github.com/reduxjs/react-redux)
