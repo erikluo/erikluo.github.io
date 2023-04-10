@@ -21,6 +21,7 @@
     - [react-redux](https://github.com/reduxjs/react-redux)
     - [redux-persist 持久化](https://github.com/rt2zz/redux-persist)
     - [redux-persist 持久化 demo](https://github.com/jefelewis/redux-persist-demo)
+    - [How to configure redux-persist with redux-toolkit?](https://stackoverflow.com/questions/63761763/how-to-configure-redux-persist-with-redux-toolkit)
     - [zustand](https://github.com/pmndrs/zustand)
     - [concent](https://github.com/concentjs/concent)
 
