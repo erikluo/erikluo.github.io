@@ -17,7 +17,7 @@
 * 持久化
     - [async-storage](https://github.com/react-native-async-storage/async-storage)
 * 状态管理
-    - redux
+    - [redux](https://github.com/reduxjs/redux)
     - [react-redux](https://github.com/reduxjs/react-redux)
     - [redux持久化](https://github.com/rt2zz/redux-persist)
     - [zustand](https://github.com/pmndrs/zustand)
