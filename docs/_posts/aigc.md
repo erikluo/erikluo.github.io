@@ -35,6 +35,9 @@
 * [cursor](https://www.cursor.so/)
     - [cursor github](https://github.com/getcursor/cursor)
 
+### AI音频
+* [语音识别-whisper](https://github.com/openai/whisper)
+
 ### AI生成视频
 * [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
 * [Text2Video-Zero](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
