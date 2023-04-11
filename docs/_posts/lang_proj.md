@@ -19,6 +19,7 @@
     - [datadog-agent 日志采集](https://github.com/DataDog/datadog-agent)
     - [etcd 注册中心](https://github.com/etcd-io/etcd)
     - [consul 注册中心](https://github.com/hashicorp/consul)
+    - [golang-jwt](https://github.com/golang-jwt/jwt)
 
 * Java
     - [zipkin 服务链路追踪](https://github.com/openzipkin/zipkin)
