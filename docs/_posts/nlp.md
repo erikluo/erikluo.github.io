@@ -51,6 +51,8 @@
     - [Fast Inference Solutions for BLOOM](https://github.com/huggingface/transformers-bloom-inference)
     - [Text Generation Inference](https://github.com/huggingface/text-generation-inference)
     - [BLOOM C++实现](https://github.com/NouamaneTazi/bloomz.cpp)
+    - [开源中文对话大模型-BELLE](https://github.com/LianjiaTech/BELLE)
+    - [BELLE models](https://huggingface.co/BelleGroup/BELLE-7B-2M)
 * GPT-JT
     - [huggingface](https://huggingface.co/togethercomputer)
 
