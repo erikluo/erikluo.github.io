@@ -43,4 +43,5 @@
     - [react-native-axios-jwt](https://github.com/mvanroon/react-native-axios-jwt)
 * Base64
     - [react-native-base64](https://github.com/eranbo/react-native-base64)
+    - [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
     - [base64 js](https://github.com/mathiasbynens/base64)
