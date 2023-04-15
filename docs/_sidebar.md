@@ -75,6 +75,7 @@
   - [好用软件](_posts/good_soft.md)
   - [好点子](https://github.com/erikluo/good_idea/blob/main/README.md)
   - [图标素材](https://github.com/erikluo/good_idea/blob/main/icon_design.md)
+  - [应用内购](https://github.com/erikluo/good_idea/blob/main/iap.md)
   
 - 📚 其它
   - [Pages参考](_posts/2022-05-28-my_first.md)
