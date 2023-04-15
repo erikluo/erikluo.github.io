@@ -2,7 +2,7 @@
 * C++
     - [通用并行异构任务系统](https://github.com/taskflow/taskflow)
 
-* Go
+### Go
     - [多集群管理-clusternet](https://github.com/clusternet/clusternet)
     - [k8s多集群调度-kubefed](https://github.com/kubernetes-sigs/kubefed)
     - [k8s多集群管理-karmada](https://github.com/karmada-io/karmada)
@@ -15,11 +15,13 @@
     - [Bloom filters 布隆过滤器](https://github.com/bits-and-blooms/bloom)
     - [uuid生成器](https://github.com/google/uuid)
     - [时间工具](https://github.com/jinzhu/now)
-    - [zap 日志](https://github.com/uber-go/zap)
     - [datadog-agent 日志采集](https://github.com/DataDog/datadog-agent)
     - [etcd 注册中心](https://github.com/etcd-io/etcd)
     - [consul 注册中心](https://github.com/hashicorp/consul)
     - [golang-jwt](https://github.com/golang-jwt/jwt)
+* 日志
+    - [zap 日志](https://github.com/uber-go/zap)
+    - [logrus](https://github.com/sirupsen/logrus)
 
 * Java
     - [zipkin 服务链路追踪](https://github.com/openzipkin/zipkin)
