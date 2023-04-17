@@ -7,6 +7,7 @@
 * ChatGLM
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 * [FastChat](https://github.com/lm-sys/FastChat/)
+* [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 
 ### AI绘画
