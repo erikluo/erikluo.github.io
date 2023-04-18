@@ -2,6 +2,8 @@
 
 ### AI聊天
 * ChatGPT
+* [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+    - [MiniGPT-4 github.io](https://minigpt-4.github.io/)
 * NewBing
 * 百度文心一言
 * ChatGLM
