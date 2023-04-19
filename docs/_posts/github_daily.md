@@ -3,3 +3,7 @@
 * [科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
 * [Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点](https://github.com/xx025/carrot)
 * [网站收集那些不需要注册、就可以使用的在线工具](https://www.nosignup.tools/)
+
+* react-native
+    - [awesome-react-native](https://github.com/jondot/awesome-react-native)
+    - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
