@@ -22,7 +22,9 @@
 
 根据具体的业务需求，流量网关通常选择C/C++派系，业务/API 网关选择其它派系。
 
-
+### k8s常用网关
+* [Envoy](https://github.com/envoyproxy/envoy)
+* [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
 ### 表格
 
 | Column 1 |开源 |开发语言 |协议|鉴权|routing|限流|负载均衡算法|Metrics/Tracing|
