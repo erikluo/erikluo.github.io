@@ -9,6 +9,7 @@
 * ChatGLM
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 * [FastChat](https://github.com/lm-sys/FastChat/)
+* [web-llm 把大语言模型运行在浏览器上](https://github.com/mlc-ai/web-llm)
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 
