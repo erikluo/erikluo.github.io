@@ -42,6 +42,7 @@
 
 ### AI音频
 * [语音识别-whisper](https://github.com/openai/whisper)
+* [Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
 
 ### AI生成视频
 * [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
