@@ -18,6 +18,7 @@
 * DALL.E 2
 * [百度文心一格](https://yige.baidu.com/)
 * [midjourney](https://www.midjourney.org/)
+* [DeepFloyd IF](https://github.com/deep-floyd/IF)
 * Meta Segment Anything - 图像对象分割
     - [github](https://github.com/facebookresearch/segment-anything)
     - [demo](https://segment-anything.com/)
