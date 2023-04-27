@@ -3,6 +3,7 @@
 是HuggingFace开源的自然语言处理库
 - [transformer github](https://github.com/huggingface/transformers)
 - [transformer 模型仓库](https://huggingface.co/models?sort=downloads&search=chat) 汇集了大量的训练好的模型，可直接使用。
+- [FasterTransformer transformer加速](https://github.com/NVIDIA/FasterTransformer)
 
 ## AIGC
 - [AI聚合网站](https://www.futurepedia.io/)
