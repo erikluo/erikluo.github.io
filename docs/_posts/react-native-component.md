@@ -35,6 +35,10 @@
 * Webview
     - [react-native-webview](https://github.com/react-native-webview/react-native-webview)
 
+* Toast
+    - [react-native-toast-message](https://github.com/calintamas/react-native-toast-message)
+    - [react-native-toast-notifications](https://github.com/arnnis/react-native-toast-notifications)
+
 * markdown
     - [react-native-markdown-text](https://github.com/eduludi/react-native-markdown-text)
     - [react-native-markdown-renderer](https://github.com/mientjan/react-native-markdown-renderer/)
