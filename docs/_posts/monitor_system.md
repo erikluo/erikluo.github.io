@@ -25,8 +25,15 @@ docker run -d -p 9091:9091 prom/pushgateway "-persistence.file=push_file"
 - 监控下线，prometheus还会拉取到旧的监控数据，需要手动清理 pushgateway不要的数据。
 
 ### 相关类库
-- [prometheus-cpp](https://github.com/jupp0r/prometheus-cpp)
-- [prometheus-client-c](https://github.com/digitalocean/prometheus-client-c)
+* C/C++
+    - [prometheus-cpp](https://github.com/jupp0r/prometheus-cpp)
+    - [prometheus-client-c](https://github.com/digitalocean/prometheus-client-c)
+
+* Go
+    - [Prometheus 监控系统和时间序列数据库](https://github.com/prometheus/prometheus)
+    - [node_exporter](https://github.com/prometheus/node_exporter)
+    - [client_golang-go应用程序接入类库](https://github.com/prometheus/client_golang)
+    - [client_golang guide](https://prometheus.io/docs/guides/go-application/)
 
 ## 参考资料 
 - [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book/introduction)
