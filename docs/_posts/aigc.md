@@ -42,6 +42,8 @@
 * [codewhisperer](https://aws.amazon.com/cn/codewhisperer/)
 * [starcoder](https://huggingface.co/bigcode/starcoder)
     - [starcoder github](https://github.com/bigcode-project/starcoder)
+    - [vscode 插件](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode)
+    - [量化](https://github.com/mayank31398/GPTQ-for-SantaCoder)
 
 ### AI音频
 * [语音识别-whisper](https://github.com/openai/whisper)
