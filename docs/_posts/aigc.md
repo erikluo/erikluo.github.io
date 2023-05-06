@@ -40,6 +40,8 @@
 * [cursor](https://www.cursor.so/)
     - [cursor github](https://github.com/getcursor/cursor)
 * [codewhisperer](https://aws.amazon.com/cn/codewhisperer/)
+* [starcoder](https://huggingface.co/bigcode/starcoder)
+    - [starcoder github](https://github.com/bigcode-project/starcoder)
 
 ### AI音频
 * [语音识别-whisper](https://github.com/openai/whisper)
