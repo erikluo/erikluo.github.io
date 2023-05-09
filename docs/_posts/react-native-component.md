@@ -5,6 +5,10 @@
     - [web demo in github pages](https://react-native-elements.github.io/react-native-elements-app/)
     - [playground](https://react-native-elements.js.org/#/)
 
+* react-native-paper
+    - [react-native-paper](https://github.com/callstack/react-native-paper)
+    - [doc](https://callstack.github.io/react-native-paper/docs/components/ActivityIndicator)
+
 * react-native-vector-icons
     - [react-native-vector-icons github](https://github.com/oblador/react-native-vector-icons)
     - [react-native-vector-icons directory](https://oblador.github.io/react-native-vector-icons/)
