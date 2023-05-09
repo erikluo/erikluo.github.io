@@ -33,6 +33,7 @@
   - [NLP](_posts/nlp.md)
   - [ChatGPT](https://github.com/erikluo/good_idea/blob/main/chatgpt.md)
   - [ChatGLM](_posts/chatglm.md)
+  - [AI绘图](https://github.com/erikluo/good_idea/blob/main/ai_draw.md)
 
 - 移动开发
   - [react-native](_posts/react-native.md)
