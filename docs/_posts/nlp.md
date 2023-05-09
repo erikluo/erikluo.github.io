@@ -26,6 +26,7 @@
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion)
     - [sygil Stable Diffusion web UI](https://github.com/Sygil-Dev/sygil-webui)
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+    - [stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
     - [强大GUI-基于可视化Gpraph/Node](https://github.com/comfyanonymous/ComfyUI)
     - [InvokeAI](https://github.com/invoke-ai/InvokeAI)
     - [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
