@@ -72,6 +72,7 @@
 - 开发工具
   - [静态网站生成工具](_posts/2022-05-29-静态网站生成工具.md)
   - [代理工具](_posts/2022-06-02-proxy_tools.md)
+  - [网络性能测试](_posts/network_perf.md)
   - [绘图工具](_posts/draw_tools.md)
   - [好用软件](_posts/good_soft.md)
   - [好点子](https://github.com/erikluo/good_idea/blob/main/README.md)
