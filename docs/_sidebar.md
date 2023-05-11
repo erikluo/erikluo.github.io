@@ -78,6 +78,7 @@
   - [好点子](https://github.com/erikluo/good_idea/blob/main/README.md)
   - [图标素材](https://github.com/erikluo/good_idea/blob/main/icon_design.md)
   - [应用内购](https://github.com/erikluo/good_idea/blob/main/iap.md)
+  - [邮箱部署](https://github.com/erikluo/good_idea/blob/main/mail_deploy.md)
 - 股市金融
   - [量化交易](https://github.com/erikluo/good_idea/blob/main/stock_trader.md)
   
