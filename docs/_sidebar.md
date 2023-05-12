@@ -5,6 +5,7 @@
 - 📊 编程语言
   - [C/C++](_posts/lang_cpp.md)
   - [python](_posts/lang_python.md)
+  - [python-lib](_posts/python_lib.md)
   - [js](_posts/lang_js.md)
   - [java](_posts/lang_java.md)
   - [go](_posts/lang_go.md)
