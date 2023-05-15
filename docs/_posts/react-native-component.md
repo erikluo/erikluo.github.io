@@ -17,6 +17,10 @@
 * Chat
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
     - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
+    - [一个基于 react-native + mobx + socket.io + node 的仿微信 JS-Wechat](https://github.com/im-js/im.js)
+
+* Wechat
+    - [react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)
 
 * 持久化
     - [async-storage](https://github.com/react-native-async-storage/async-storage)
