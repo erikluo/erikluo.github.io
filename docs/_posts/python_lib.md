@@ -9,6 +9,7 @@
     - [mounting-within-another-fastapi-app](https://gradio.app/sharing-your-app/#mounting-within-another-fastapi-app)
     - [theming-guide](https://gradio.app/theming-guide/)
     - [gradio-tutorial](https://www.machinelearningnuggets.com/gradio-tutorial/)
+    - [gradio-nginx-conf](https://huggingface.co/spaces/radames/nginx-gradio-reverse-proxy/blob/main/nginx.conf)
 
 ## 关于Gradio实现流式输出的几种方法：
 * Interface
