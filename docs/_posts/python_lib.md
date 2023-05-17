@@ -10,6 +10,7 @@
     - [theming-guide](https://gradio.app/theming-guide/)
     - [gradio-tutorial](https://www.machinelearningnuggets.com/gradio-tutorial/)
     - [gradio-nginx-conf](https://huggingface.co/spaces/radames/nginx-gradio-reverse-proxy/blob/main/nginx.conf)
+    - [gradio 嵌入到html中](https://gradio.app/sharing-your-app/#embedding-hosted-spaces)
 
 ## 关于Gradio实现流式输出的几种方法：
 * Interface
