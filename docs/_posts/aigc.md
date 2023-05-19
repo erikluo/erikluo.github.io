@@ -11,6 +11,7 @@
 * [FastChat](https://github.com/lm-sys/FastChat/)
 * [web-llm 把大语言模型运行在浏览器上](https://github.com/mlc-ai/web-llm)
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+* [AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型](https://huggingface.co/chat/)
 
 
 ### AI绘画
