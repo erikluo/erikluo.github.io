@@ -2,6 +2,8 @@
 * Flask
 * Numpy
 * Transformer
+
+### 低代码
 * Gradio
     - [github](https://github.com/gradio-app/gradio)
     - [site](https://www.gradio.app/)
@@ -12,6 +14,9 @@
     - [gradio-nginx-conf](https://huggingface.co/spaces/radames/nginx-gradio-reverse-proxy/blob/main/nginx.conf)
     - [gradio 嵌入到html中](https://gradio.app/sharing-your-app/#embedding-hosted-spaces)
     - [在gradio中嵌入html+js](https://discuss.huggingface.co/t/gradio-html-component-with-javascript-code-dont-work/37316)
+
+* Streamlit
+    - [streamlit github](https://github.com/streamlit/streamlit)
 
 ## 关于Gradio实现流式输出的几种方法：
 * Interface
