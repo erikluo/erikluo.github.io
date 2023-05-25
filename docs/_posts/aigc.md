@@ -26,6 +26,10 @@
     - [paper](https://ai.facebook.com/research/publications/segment-anything/)
     - [blog](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)
 
+* DragGAN 基于交互式点操作的生成图像流形处理
+    - [DragGAN-colab](https://github.com/camenduru/DragGAN-colab)
+    - [DragGAN github](https://github.com/XingangPan/DragGAN)
+
 
 ### AI写作
 * Notion AI
