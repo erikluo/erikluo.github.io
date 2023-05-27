@@ -61,3 +61,7 @@
     - [react-native-base64](https://github.com/eranbo/react-native-base64)
     - [react-native-quick-base64](https://github.com/craftzdog/react-native-quick-base64)
     - [base64 js](https://github.com/mathiasbynens/base64)
+
+* 微信
+    - [react-native-wechat 似乎很久没更新了](https://github.com/yorkie/react-native-wechat)
+    - [react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)
