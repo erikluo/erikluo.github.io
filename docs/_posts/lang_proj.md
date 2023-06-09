@@ -23,6 +23,7 @@
 * 日志
     - [zap 日志](https://github.com/uber-go/zap)
     - [logrus](https://github.com/sirupsen/logrus)
+    - [logrus 扩展](https://github.com/mix-go/logrus)
 
 * MySQL
     - [mysql: MySQL driver for Go's (golang) database/sql package](https://github.com/go-sql-driver/mysql)
