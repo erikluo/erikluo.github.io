@@ -42,6 +42,7 @@
 * Copilot X
 * [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
 * Tabnine
+* [tabby:Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
 * [cursor](https://www.cursor.so/)
     - [cursor github](https://github.com/getcursor/cursor)
 * [codewhisperer](https://aws.amazon.com/cn/codewhisperer/)
