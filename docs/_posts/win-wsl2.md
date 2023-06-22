@@ -11,3 +11,26 @@ WSL2底层完全采用虚拟机实现，体验上基本上接近真实的Linux�
     - 只能采用Windows -> docker-server -> windows-docker
     - 并且windows-docker内监听端口的地址只能是 0.0.0.0 ，而不能是 127.0.0.1.
 
+### WSL如何使用代理
+wsl1
+```
+# WSL1
+alias www='https_proxy="http://127.0.0.1:8080" http_proxy="http://127.0.0.1:8080"'
+
+# or simply
+export https_proxy="http://127.0.0.1:8080"
+export http_proxy="http://127.0.0.1:8080"
+```
+
+wsl2
+```
+# WSL2
+export hostip=$(cat /etc/resolv.conf | grep nameserver | awk '{ print $2 }')
+alias www="https_proxy=\"http://${hostip}:8080\" http_proxy=\"http://${hostip}:8080\""
+
+# or set it global
+export hostip=$(cat /etc/resolv.conf | grep nameserver | awk '{ print $2 }')
+export https_proxy="http://${hostip}:8080" 
+export http_proxy="http://${hostip}:8080"
+```
+
