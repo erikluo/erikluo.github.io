@@ -1,15 +1,3 @@
----
-layout: post
-title: "梯子/机场方案整理"
-subtitle: ""
-author: "erikluo"
-header-img: ""
-header-mask: 0.2
-tags:
-  - ss
-  - proxy
----
-
 ## 网关模式
 ### 硬路由
 > 路由器刷openwrt固件 
@@ -106,9 +94,11 @@ stream {
 
 ## 工具
 * [IP地址分数查询](https://scamalytics.com/)
+* 查看ip地址信息：curl ipinfo.io
 ## 参考资料
 - <https://github.com/yangchuansheng/love-gfw>
 - [V2Ray 配置指南](https://toutyrater.github.io/)
+- [左耳朵-科学上网](https://github.com/haoel/haoel.github.io)
 
 
 
