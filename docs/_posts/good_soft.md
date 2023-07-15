@@ -5,3 +5,7 @@
 
 * 论文阅读
     - [zotero](https://www.zotero.org/)
+ 
+* Telegram
+    - [tgscan](https://github.com/tgscan-dev/tgscan)
+    - [开源的 Telegram 搜索引擎](https://tgscan.xyz/)
