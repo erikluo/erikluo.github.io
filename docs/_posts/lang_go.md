@@ -16,3 +16,7 @@
 - [zinx](https://github.com/aceld/zinx) 轻量级tcp长连接框架。
 - [easytcp](https://github.com/DarthPestilane/easytcp)
 
+## Go语言嵌入支持
+* [Go embed 简明教程](https://colobu.com/2021/01/17/go-embed-tutorial/)
+* [Go embed参考代码](https://github.com/soulteary/forever-coolshell)
+
