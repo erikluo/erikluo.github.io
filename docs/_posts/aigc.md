@@ -53,7 +53,9 @@
 
 ### AI音频
 * [语音识别-whisper](https://github.com/openai/whisper)
+    - [Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
+* [中文语音识别、文字转语音，基于语音库实现，易扩展](https://github.com/shibing624/parrots)
 
 ### AI生成视频
 * [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
