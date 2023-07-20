@@ -8,7 +8,14 @@
 * 百度文心一言
 * ChatGLM
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
-* [FastChat](https://github.com/lm-sys/FastChat/)
+* FastChat
+     - [FastChat github](https://github.com/lm-sys/FastChat/)
+     - [FastChat 官网](https://lmsys.org/)
+     - [FastChat 模型](https://huggingface.co/lmsys/vicuna-13b-v1.3/tree/main)
+ 
+* Belle
+     - [BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）](https://github.com/LianjiaTech/BELLE)
+       
 * [web-llm 把大语言模型运行在浏览器上](https://github.com/mlc-ai/web-llm)
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 * [AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型](https://huggingface.co/chat/)
