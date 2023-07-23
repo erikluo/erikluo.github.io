@@ -57,7 +57,12 @@ Surge:
 ## vpn
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 
-## Proxy客户端
+## Proxy UI 客户端
+* ClashX
+    - [ClashX](https://github.com/Dreamacro/clash)
+    - [ClashX Pro-无源码](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
+* V2rayU
+    - [V2rayU-伪全局模式](https://github.com/yanue/V2rayU/tree/rm)
 - netch
 - proxifier
 - shadowlink
@@ -89,8 +94,6 @@ stream {
 ```
 - firewalld/iptables
 
-## 搭建历程
-王者海外版（）连接 新加坡服务器，网络延迟超过400ms，导致无法排位。
 
 ## 工具
 * [IP地址分数查询](https://scamalytics.com/)
@@ -98,7 +101,9 @@ stream {
 ## 参考资料
 - <https://github.com/yangchuansheng/love-gfw>
 - [V2Ray 配置指南](https://toutyrater.github.io/)
-- [左耳朵-科学上网](https://github.com/haoel/haoel.github.io)
+- [左耳朵耗子-科学上网](https://github.com/haoel/haoel.github.io)
+- [ProxyTool](https://github.com/githubvpn007/ProxyTool)
+- [Clash Premium 规则集](https://github.com/Loyalsoldier/clash-rules)
 
 
 
