@@ -18,6 +18,7 @@
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
     - [stream-chat-react-native](https://github.com/GetStream/stream-chat-react-native)
     - [一个基于 react-native + mobx + socket.io + node 的仿微信 JS-Wechat](https://github.com/im-js/im.js)
+    - [腾讯云即时通信IM React Native Demo](https://github.com/TencentCloud/chat-demo-react-native)
 
 * Wechat
     - [react-native-wechat-lib](https://github.com/little-snow-fox/react-native-wechat-lib)
