@@ -25,3 +25,7 @@ golang内置性能测试支持
 * [Go embed 简明教程](https://colobu.com/2021/01/17/go-embed-tutorial/)
 * [Go embed参考代码](https://github.com/soulteary/forever-coolshell)
 
+## Go的libc依赖问题
+* [Container with alpine failing to execute a file with not found](https://pet2cattle.com/2022/11/alpine-not-found)
+* [Go-compiled binary won't run in an alpine docker container on Ubuntu host](https://stackoverflow.com/questions/36279253/go-compiled-binary-wont-run-in-an-alpine-docker-container-on-ubuntu-host)  
+
