@@ -34,6 +34,7 @@
   - [AIGC](_posts/aigc.md)
   - [NLP](_posts/nlp.md)
   - [ChatGPT](https://github.com/erikluo/good_idea/blob/main/chatgpt.md)
+  - [LLaMA](https://github.com/erikluo/good_idea/blob/main/llama.md)
   - [ChatGLM](_posts/chatglm.md)
   - [AI绘图](https://github.com/erikluo/good_idea/blob/main/ai_draw.md)
   - [AI虚拟人](https://github.com/erikluo/good_idea/blob/main/virtual_character.md)
