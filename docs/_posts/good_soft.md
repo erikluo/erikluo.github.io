@@ -9,3 +9,6 @@
 * Telegram
     - [tgscan](https://github.com/tgscan-dev/tgscan)
     - [开源的 Telegram 搜索引擎](https://tgscan.xyz/)
+* 短视频制作- ShotCut 免费开源
+    - [github](https://github.com/mltframework/shotcut)
+    - [offical](https://shotcut.org/)
