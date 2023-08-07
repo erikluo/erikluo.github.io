@@ -81,6 +81,7 @@
   - [网络性能测试](_posts/network_perf.md)
   - [抓包工具](_posts/packet_cap_tool.md)
   - [绘图工具](_posts/draw_tools.md)
+  - [笔记工具](_posts/note_tools.md)
   - [好用软件](_posts/good_soft.md)
   - [好点子](https://github.com/erikluo/good_idea/blob/main/README.md)
   - [图标素材](https://github.com/erikluo/good_idea/blob/main/icon_design.md)
