@@ -12,8 +12,10 @@
 * Boostnote
 
 ### 同步方式
-* OneDrive
-* S3
-* Webdav
-   - [docker镜像](https://hub.docker.com/r/ionelmc/webdav)
-   - [docker镜像 github](https://github.com/erikluo/docker-webdav/)
+* 插件 RemotelySave
+   - OneDrive
+   - S3
+   - [Webdav](https://erikluo.github.io/#/_posts/webdav)
+
+* 插件 Self-hosted LiveSync
+   - [CouchDB](https://erikluo.github.io/#/_posts/CouchDB)
