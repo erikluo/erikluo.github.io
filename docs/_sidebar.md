@@ -40,9 +40,9 @@
   - [AI虚拟人](https://github.com/erikluo/good_idea/blob/main/virtual_character.md)
  
 - 存储
-  - [mysql][_posts/mysql.md]
-  - [webdav][_posts/webdav.md]
-  - [CouchDB][_posts/CouchDB.md]
+  - [mysql](_posts/mysql.md)
+  - [webdav](_posts/webdav.md)
+  - [CouchDB](_posts/CouchDB.md)
     
 - 移动开发
   - [react-native](_posts/react-native.md)
