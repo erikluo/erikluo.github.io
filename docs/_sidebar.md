@@ -38,7 +38,10 @@
   - [ChatGLM](_posts/chatglm.md)
   - [AI绘图](https://github.com/erikluo/good_idea/blob/main/ai_draw.md)
   - [AI虚拟人](https://github.com/erikluo/good_idea/blob/main/virtual_character.md)
-
+- 存储
+  - [mysql][_posts/mysql.md]
+  - [webdav][_posts/webdav.md]
+  - [CouchDB][_posts/CouchDB.md]
 - 移动开发
   - [react-native](_posts/react-native.md)
   - [react-native组件库](_posts/react-native-component.md)
