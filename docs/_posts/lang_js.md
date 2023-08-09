@@ -34,6 +34,7 @@ yarn，npm 都是nodejs的包管理工具，区别
 ## TypeScript
 - [github](https://github.com/microsoft/TypeScript)
 - [typescript教程](https://www.runoob.com/typescript/ts-tutorial.html)
+- [TypeScript 入门教程](https://ts.xcatliu.com/introduction/index.html)
 
 * typescript的两种运行方式
     - npm install -g ts-node && npx ts-node src/foo.ts 
