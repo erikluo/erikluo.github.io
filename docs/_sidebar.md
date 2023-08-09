@@ -45,6 +45,7 @@
   - [CouchDB](_posts/CouchDB.md)
     
 - 移动开发
+  - [App开发](https://github.com/erikluo/good_idea/blob/main/app_dev.md)
   - [react-native](_posts/react-native.md)
   - [react-native组件库](_posts/react-native-component.md)
   - [react-native源码分析](_posts/react-native-parse.md)
