@@ -11,6 +11,9 @@ WSL2底层完全采用虚拟机实现，体验上基本上接近真实的Linux�
     - 只能采用Windows -> docker-server -> windows-docker
     - 并且windows-docker内监听端口的地址只能是 0.0.0.0 ，而不能是 127.0.0.1.
 
+### WSL2 如何支持图形界面
+* [WSLg is short for Windows Subsystem for Linux GUI](https://github.com/microsoft/wslg)
+
 ### WSL如何使用代理
 wsl1
 ```
