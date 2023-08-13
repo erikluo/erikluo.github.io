@@ -19,3 +19,6 @@
 
 * 插件 Self-hosted LiveSync
    - [CouchDB](https://erikluo.github.io/#/_posts/CouchDB)
+ 
+* 插件 Obsidian Git
+   - 安装插件后会出现一个Git Control View 的侧边栏。如果没有，则按下 Ctrl/CMD + P，搜索 Obsidian Git: Open Source Control View ，就可以打开这个面板。
