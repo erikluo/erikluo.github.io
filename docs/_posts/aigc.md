@@ -58,6 +58,9 @@
     - [vscode 插件](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode)
     - [量化](https://github.com/mayank31398/GPTQ-for-SantaCoder)
 
+### AI医生
+* [DoctorGPT is an LLM that can pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT)
+  
 ### AI音频
 * [语音识别-whisper](https://github.com/openai/whisper)
     - [Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
