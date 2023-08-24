@@ -34,6 +34,7 @@
   - [AI知识图谱](_posts/ai_knownage_graph.md)
   - [神经网络可视化](_posts/nn-vis.md)
   - [机器学习平台框架](_posts/ml_platform.md)
+  - [OCR](_posts/ocr.md)
   - [AIGC](_posts/aigc.md)
   - [NLP](_posts/nlp.md)
   - [ChatGPT](https://github.com/erikluo/good_idea/blob/main/chatgpt.md)
