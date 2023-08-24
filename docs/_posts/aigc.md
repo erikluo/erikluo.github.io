@@ -76,6 +76,7 @@
 
 ### AI数字人
 * [D-ID 可上传图片，文案，选择语种、声音等，让图说话，即生成数字虚拟人](https://studio.d-id.com/editor)
+* [HeyGen](https://app.heygen.com/guest/home)
 * [VOCA: Voice Operated Character Animation](https://github.com/TimoBolkart/voca)
 * FFMpeg相关
     - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr)
