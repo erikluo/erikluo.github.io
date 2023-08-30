@@ -10,3 +10,6 @@ hey是一款使用Golang开发的HTTP压力测试工具，可作为ApacheBench�
 ### fortio
 fortio 是一个测试负载的库、命令行工具。可以作为压测的客户端或server，并提供可视化的UI页面。
 - [github](https://github.com/fortio/fortio)
+
+### go-stress-testing
+- [go实现的压测工具【单台机器100w连接压测实战】](https://github.com/link1st/go-stress-testing)
