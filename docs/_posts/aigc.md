@@ -59,7 +59,7 @@
     - [量化](https://github.com/mayank31398/GPTQ-for-SantaCoder)
 
 ### AI医生
-* [DoctorGPT is an LLM that can pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT)
+* [DoctorGPT is an LLM that can pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT) 
   
 ### AI音频
 * [语音识别-whisper](https://github.com/openai/whisper)
@@ -81,6 +81,8 @@
 * FFMpeg相关
     - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr)
 
+### AI动作模仿
+* [DeepMimic - 深度强化学习的动作模仿](https://github.com/xbpeng/DeepMimic)
 
 ### Reference
 - [TopAI](http://ai.liqi.top/cn/index.html#)
