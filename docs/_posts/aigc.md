@@ -1,5 +1,5 @@
 ## AIGC
-
+[Awesome-AIGC-Tutorials 收集了关于AIGC的各种精选教程和资源](https://github.com/erikluo/Awesome-AIGC-Tutorials)
 ### AI聊天
 * ChatGPT
 * [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
