@@ -13,3 +13,7 @@ fortio 是一个测试负载的库、命令行工具。可以作为压测的客�
 
 ### go-stress-testing
 - [go实现的压测工具【单台机器100w连接压测实战】](https://github.com/link1st/go-stress-testing)
+
+## 一些实践
+- [apisix 压测脚本](https://github.com/apache/apisix/blob/master/benchmark/run.sh)
+- [hey压测脚本](https://github.com/bigwhite/experiments/tree/master/http-benchmark/client)
