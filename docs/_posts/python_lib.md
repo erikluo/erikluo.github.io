@@ -17,6 +17,10 @@
 
 * Streamlit
     - [streamlit github](https://github.com/streamlit/streamlit)
+ 
+* Wooey
+    - [Wooey](https://github.com/wooey/Wooey)
+    - [Wooey实践 用腾讯云 AI 语音合成打造有声书制作工具](https://cloud.tencent.com/document/product/1073/79142)
 
 ## 关于Gradio实现流式输出的几种方法：
 * Interface
