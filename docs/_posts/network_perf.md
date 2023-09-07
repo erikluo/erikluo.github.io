@@ -6,8 +6,14 @@
     - [code下载地址](https://code.google.com/archive/p/iperf/downloads)
 
 * 使用方法
-    - 服务端运行iperf，输入命令iperf –s –p 12345 –i 1 以在本机端口12345上启用iperf
-    - 客户端运行iperf，输入命令iperf –c server-ip –p server-port –i 1 –t 10 –w 20K
+    - 服务端运行iperf，输入命令，在本机端口12345上启用iperf, 1s 打印一次信息。
+      ```
+      iperf3  -s -p 12345 -i 1
+      ```
+    - 客户端运行iperf，输入命令
+      ```
+      iperf3  -c dev180 -p 12345 -i 1 -t 10 -w 20k
+      ```
 
 * 参数说明  
     - -c：客户端模式，后接服务器ip
