@@ -73,6 +73,7 @@
 - 操作系统
   - [Linux下为sudo命令定义环境变量](_posts/2022-05-30-Linux下为sudo命令定义环境变量.md)
   - [Linux命令备忘](_posts/2022-06-05-linux_cmd.md)
+  - [Linux虚拟X服务器](_posts/virtual_xserver.md)
   - [操作系统技巧](_posts/2022-06-14-os_helper.md)
   - [WSL2总结](_posts/win-wsl2.md)
   - [MacOS](_posts/macos.md)
