@@ -19,6 +19,7 @@
   - [k8s搭建](_posts/2022-05-29-k8s搭建.md)
   - [Nginx配置备忘](_posts/2022-05-29-Nginx配置教程.md)
   - [MySql备忘](_posts/2022-06-01-MySql.md)
+  - [时序数据库](_posts/time_series_db.md)
   - [监控系统](_posts/monitor_system.md)
   - [CI/CD](_posts/ci-cd.md)
   - [L7Proxy](_posts/L7Proxy.md)
