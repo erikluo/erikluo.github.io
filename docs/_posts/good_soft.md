@@ -11,4 +11,8 @@
     - [开源的 Telegram 搜索引擎](https://tgscan.xyz/)
 * 短视频制作- ShotCut 免费开源
     - [github](https://github.com/mltframework/shotcut)
-    - [offical](https://shotcut.org/)
+    - [offical site](https://shotcut.org/)
+
+* 直播及录屏-obs
+    - [official](https://obsproject.com/)
+    - [github obs-studio](https://github.com/obsproject/obs-studio)
