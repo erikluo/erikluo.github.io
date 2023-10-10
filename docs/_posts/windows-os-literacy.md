@@ -2,7 +2,8 @@
 本文记录安装完windows操作系统后，必备软件的安装，最佳实践， 根据使用经验不断更新。
 
 ### 必备软件
-* [Wox full安装版本集成everything，python](https://github.com/Wox-launcher/Wox)
+* [效率神器-Wox full安装版本集成everything，python](https://github.com/Wox-launcher/Wox)
+* [笔记软件-Obsidian]()
 
 ### 输入法
 使用自带的微软拼音即可，可上传自定义词库。 
