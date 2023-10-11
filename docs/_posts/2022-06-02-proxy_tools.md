@@ -1,4 +1,6 @@
 ## 网关模式
+- [Mac 电脑使用 ClashX Pro 作为网关旁路由](https://qust.me/post/clashxProMac/)
+
 ### 硬路由
 > 路由器刷openwrt固件 
 
