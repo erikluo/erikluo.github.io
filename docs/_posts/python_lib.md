@@ -17,7 +17,8 @@
 
 * Streamlit
     - [streamlit github](https://github.com/streamlit/streamlit)
- 
+* reflex
+    - [reflex - Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * Wooey
     - [Wooey](https://github.com/wooey/Wooey)
     - [Wooey实践 用腾讯云 AI 语音合成打造有声书制作工具](https://cloud.tencent.com/document/product/1073/79142)
