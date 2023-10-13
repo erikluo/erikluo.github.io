@@ -61,6 +61,7 @@
   - [react-native动画方案-lottie](_posts/lottie.md)
   - [uni-app](_posts/uni-app.md)
   - [taro](_posts/taro.md)
+  - [FinClip](_posts/finclip.md)
   - [flexbox布局](_posts/flexbox.md)
 
 - Web开发
