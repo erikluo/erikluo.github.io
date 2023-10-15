@@ -65,7 +65,7 @@
 * [语音识别-whisper](https://github.com/openai/whisper)
     - [Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
-* [中文语音识别、文字转语音，基于语音库实现，易扩展](https://github.com/shibing624/parrots)
+* [中文语音识别、文字转语音，基于语音库实现，易扩展](https://github.com/shibing624/parrots) 
 
 ### AI生成视频
 * [Tune-A-Video](https://github.com/showlab/Tune-A-Video)
@@ -73,6 +73,7 @@
 * [ebsynth](https://ebsynth.com/)
 * [FollowYourPose](https://github.com/mayuelala/FollowYourPose)
 * [DreamPose](https://github.com/johannakarras/DreamPose)
+* [Text-to-video generation. The repo for ICLR2023 paper "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers"](https://github.com/THUDM/CogVideo)
 
 ### AI数字人
 * [D-ID 可上传图片，文案，选择语种、声音等，让图说话，即生成数字虚拟人](https://studio.d-id.com/editor)
