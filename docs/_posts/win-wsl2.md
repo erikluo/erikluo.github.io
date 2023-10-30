@@ -36,4 +36,6 @@ export hostip=$(cat /etc/resolv.conf | grep nameserver | awk '{ print $2 }')
 export https_proxy="http://${hostip}:8080" 
 export http_proxy="http://${hostip}:8080"
 ```
+### 其它问题
+- [解决访问不了域名如github的问题 How do I change the DNS settings for WSL2?](https://superuser.com/questions/1533291/how-do-i-change-the-dns-settings-for-wsl2)
 
