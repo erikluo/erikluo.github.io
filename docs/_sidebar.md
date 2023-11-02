@@ -45,6 +45,7 @@
   - [ChatGLM](_posts/chatglm.md)
   - [AI绘图](https://github.com/erikluo/good_idea/blob/main/ai_draw.md)
   - [AI虚拟人](https://github.com/erikluo/good_idea/blob/main/virtual_character.md)
+  - [RAG](_posts/rag.md)
  
 - 存储
   - [mysql](_posts/mysql.md)
