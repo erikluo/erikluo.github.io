@@ -5,4 +5,5 @@ Starlark是一门配置语言，设计之初是为了作为 Bazel 的配置语�
 
 ## 相关库
 - [Go实现的starlark解释器](https://github.com/google/starlark-go)
+- [Rust实现的starlark解释器](https://github.com/facebookexperimental/starlark-rust)
 - [starlark语言规范](https://github.com/bazelbuild/starlark)
