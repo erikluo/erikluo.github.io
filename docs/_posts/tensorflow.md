@@ -28,17 +28,21 @@ git checkout v2.12.1
 bazel build --local_ram_resources=4096  --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=1" --config=opt   //tensorflow:libtensorflow_cc.so
 ```
 
-### protobuf编译
+## protobuf编译
 普通编译
 ```
 ./configure
 make
 ```
-hideen式编译(场景：一个程序的两个模块 A B，各使用了两个不同版本的pb库，直接静态链接会失败，此时可通过)
+hidden式编译(场景：一个程序的两个模块 A B，各使用了两个不同版本的pb库，直接静态链接会失败，此时可在一个模块中隐藏pb，且该模块必须使用动态库so)
+例如需要在B中隐藏pb，可以在构建B.so 时链接如下方式生成的protobuf静态库文件。
 ```
 ./configure --with-pic --disable-shared --enable-static "CXXFLAGS=-fvisibility=hidden"
 make V=1
 ```
+
+普通pb编译参数
+
 ```
 /bin/sh ../libtool  --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..    -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare  -fvisibility=hidden -MT google/protobuf/stubs/strutil.lo -MD -MP -MF $depbase.Tpo -c -o google/protobuf/stubs/strutil.lo google/protobuf/stubs/strutil.cc &&\
 mv -f $depbase.Tpo $depbase.Plo
@@ -49,6 +53,12 @@ mv -f $depbase.Tpo $depbase.Plo
 libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -fvisibility=hidden -MT google/protobuf/stubs/time.lo -MD -MP -MF google/protobuf/stubs/.deps/time.Tpo -c google/protobuf/stubs/time.cc  -fPIC -DPIC -o google/protobuf/stubs/time.o
 ```
 
+```
+```
+
+可以看到， 在编译选项中新增了  -fPIC -DPIC -fvisibility=hidden 参数。
+
+最终的生成物如下：
 ```
 ./src/.libs/libprotoc.a
 ./src/.libs/libprotobuf-lite.a
