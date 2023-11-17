@@ -25,7 +25,11 @@ curl -fLO https://releases.bazel.build/5.1.1/release/bazel-5.1.1-linux-x86_64 &&
 
 git checkout v2.12.1
 ./configure
-bazel build --local_ram_resources=4096  --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=1" --config=opt   //tensorflow:libtensorflow_cc.so
+bazel build --local_ram_resources=4096  --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=1" --config=opt   //tensorflow:libtensorflow.so
+bazel build --local_ram_resources=4096  --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=1" --config=opt   //tensorflow:libtensorflow_framwork.so
+
+# --subcommands 参数可以编译时显示详细命令行信息
+bazel build --local_ram_resources=4096 --subcommands  --cxxopt="-D_GLIBCXX_USE_CXX11_ABI=1" --config=opt   //tensorflow:libtensorflow.so
 ```
 
 ## protobuf编译
