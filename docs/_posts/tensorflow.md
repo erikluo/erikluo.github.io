@@ -42,9 +42,19 @@ make V=1
 ```
 
 普通pb编译参数
-
 ```
-/bin/sh ../libtool  --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..    -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare  -fvisibility=hidden -MT google/protobuf/stubs/strutil.lo -MD -MP -MF $depbase.Tpo -c -o google/protobuf/stubs/strutil.lo google/protobuf/stubs/strutil.cc &&\
+mv -f $depbase.Tpo $depbase.Plo
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -O2 -g -std=c++11 -DNDEBUG -MT google/protobuf/stubs/strutil.lo -MD -MP -MF google/protobuf/stubs/.deps/strutil.Tpo -c google/protobuf/stubs/strutil.cc  -fPIC -DPIC -o google/protobuf/stubs/.libs/strutil.o
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -O2 -g -std=c++11 -DNDEBUG -MT google/protobuf/stubs/strutil.lo -MD -MP -MF google/protobuf/stubs/.deps/strutil.Tpo -c google/protobuf/stubs/strutil.cc -o google/protobuf/stubs/strutil.o >/dev/null 2>&1
+depbase=`echo google/protobuf/stubs/time.lo | sed 's|[^/]*$|.deps/&|;s|\.lo$||'`;\
+/bin/sh ../libtool  --tag=CXX   --mode=compile g++ -DHAVE_CONFIG_H -I. -I..    -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -O2 -g -std=c++11 -DNDEBUG -MT google/protobuf/stubs/time.lo -MD -MP -MF $depbase.Tpo -c -o google/protobuf/stubs/time.lo google/protobuf/stubs/time.cc &&\
+mv -f $depbase.Tpo $depbase.Plo
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -O2 -g -std=c++11 -DNDEBUG -MT google/protobuf/stubs/time.lo -MD -MP -MF google/protobuf/stubs/.deps/time.Tpo -c google/protobuf/stubs/time.cc  -fPIC -DPIC -o google/protobuf/stubs/.libs/time.o
+libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -O2 -g -std=c++11 -DNDEBUG -MT google/protobuf/stubs/time.lo -MD -MP -MF google/protobuf/stubs/.deps/time.Tpo -c google/protobuf/stubs/time.cc -o google/protobuf/stubs/time.o >/dev/null 2>&1
+```
+
+隐藏pb编译参数
+```
 mv -f $depbase.Tpo $depbase.Plo
 libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -fvisibility=hidden -MT google/protobuf/stubs/strutil.lo -MD -MP -MF google/protobuf/stubs/.deps/strutil.Tpo -c google/protobuf/stubs/strutil.cc  -fPIC -DPIC -o google/protobuf/stubs/strutil.o
 depbase=`echo google/protobuf/stubs/time.lo | sed 's|[^/]*$|.deps/&|;s|\.lo$||'`;\
@@ -53,10 +63,7 @@ mv -f $depbase.Tpo $depbase.Plo
 libtool: compile:  g++ -DHAVE_CONFIG_H -I. -I.. -pthread -DHAVE_PTHREAD=1 -DHAVE_ZLIB=1 -Wall -Wno-sign-compare -fvisibility=hidden -MT google/protobuf/stubs/time.lo -MD -MP -MF google/protobuf/stubs/.deps/time.Tpo -c google/protobuf/stubs/time.cc  -fPIC -DPIC -o google/protobuf/stubs/time.o
 ```
 
-```
-```
-
-可以看到， 在编译选项中新增了  -fPIC -DPIC -fvisibility=hidden 参数。
+对比可以看到， 在编译选项中多出了 -fvisibility=hidden 参数。
 
 最终的生成物如下：
 ```
