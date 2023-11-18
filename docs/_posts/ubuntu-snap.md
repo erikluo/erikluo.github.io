@@ -1,8 +1,10 @@
 ## ubuntu snap 简介
-snap是一种安全、通用的linux软件包，基于SquashFS文件系统实现。snap包括安装包、
+snap是一种安全、通用的linux软件包，基于SquashFS文件系统实现。snap包括安装包、依赖项、运行环境，因此可以在支持snap的linux环境中保证以相同的方式运行（类似docker）。
 
 ## snap系统组件
-
+- snapd（类似dockerd）
+- snap （类似docker）
+- snap store（类似docker hub）
 
 ## 常用命令
 代理设置
