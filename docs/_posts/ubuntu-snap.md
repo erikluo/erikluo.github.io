@@ -1,6 +1,10 @@
-## ubuntu snap
-snap是一种安全、通用的linux软件包，基于SquashFS文件系统实现。
+## ubuntu snap 简介
+snap是一种安全、通用的linux软件包，基于SquashFS文件系统实现。snap包括安装包、
 
+## snap系统组件
+
+
+## 常用命令
 代理设置
 ```
 $ sudo snap set system proxy.http="http://<proxy_addr>:<proxy_port>"
