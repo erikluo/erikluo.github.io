@@ -4,6 +4,7 @@
 ### 必备软件
 * [效率神器-Wox full安装版本集成everything，python](https://github.com/Wox-launcher/Wox)
 * [笔记软件-Obsidian]()
+* [剪切板-ditto](https://ditto-cp.sourceforge.io/)
 
 ### 输入法
 使用自带的微软拼音即可，可上传自定义词库。 
