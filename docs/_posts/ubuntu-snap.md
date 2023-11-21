@@ -4,6 +4,10 @@ Linux中类似的软件发行方式还包括：
 - [appimage](https://appimage.org/)
 - [flatpak](https://flatpak.org/)
 
+## AppImage
+- [appimage github.io](https://appimage.github.io/apps/)
+- [AppImage hub](https://www.appimagehub.com/)
+
 ## snap系统组件
 - snapd（类似dockerd）
 - snap （类似docker）
