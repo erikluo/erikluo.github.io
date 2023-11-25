@@ -4,7 +4,7 @@ newsite:
 	cd quickstart && git init && git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke && echo "theme = 'ananke'" >> hugo.toml
 	cd quickstart && rm -rfv .git/ .gitmodules
 newcontent:
-	cd quickstart && hugo new content posts/my-first-post.md
+	cd quickstart && hugo new content post/my-first-post.md
 server:
 	cd quickstart && hugo server 
 dev:
