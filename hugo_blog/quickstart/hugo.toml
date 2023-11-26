@@ -25,6 +25,8 @@ enableRobotsTXT = true
   description = "The last theme you'll ever need. Maybe."
   background_color_class = "bg-black"
   recent_posts_number = 3
+  commentoEnable = false
+  giscusEnable=true
 
 [[params.ananke_socials]]
 name = "twitter"

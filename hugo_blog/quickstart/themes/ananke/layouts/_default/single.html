@@ -57,6 +57,9 @@
       {{ if .Site.Params.commentoEnable }}
         {{- partial "commento.html" . -}}
       {{ end }}
+      {{ if .Site.Params.giscusEnable }}
+        {{- partial "giscus.html" . -}}
+      {{ end }}
       </div>
     </div>
 
