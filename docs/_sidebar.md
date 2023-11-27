@@ -86,6 +86,7 @@
   - [操作系统技巧](_posts/2022-06-14-os_helper.md)
   - [WSL2总结](_posts/win-wsl2.md)
   - [MacOS](_posts/macos.md)
+  - [Ubuntu](_posts/ubuntu.md)
   - [windows操作系统素养](_posts/windows-os-literacy.md)
 
 - Devops
