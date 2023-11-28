@@ -17,9 +17,14 @@ sudo apt purge ibus*
 sudo apt autoremove
 ```
 
-安装fcitx
+安装fcitx[已被fcitx5替代]
 ```
 sudo apt install fcitx-googlepinyin
 # [可选] 如果需要自定义词库，可安装fcitx-tools 
 sudo apt install fcitx-tools
+```
+
+安装fcitx5
+```
+sudo apt install -y fcitx5 fcitx5-chinese-addons
 ```
