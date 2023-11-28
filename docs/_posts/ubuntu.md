@@ -28,3 +28,4 @@ sudo apt install fcitx-tools
 ```
 sudo apt install -y fcitx5 fcitx5-chinese-addons
 ```
+- [制作 fcitx5 的自定义词库](https://github.com/erikluo/sougou-dict)
