@@ -35,7 +35,11 @@ docker run -d -p 9091:9091 prom/pushgateway "-persistence.file=push_file"
     - [client_golang-go应用程序接入类库](https://github.com/prometheus/client_golang)
     - [client_golang guide](https://prometheus.io/docs/guides/go-application/)
 
+## 常见问题
+- [Prometheus性能调优-什么是高基数问题以及如何解决?](https://juejin.cn/post/7213171235579543612)
+  
 ## 参考资料 
 - [prometheus-book](https://yunlzheng.gitbook.io/prometheus-book/introduction)
 - [开放指标规范定义](https://github.com/OpenObservability/OpenMetrics/blob/98ae26c87b1c3bcf937909a880b32c8be643cc9b/specification/OpenMetrics.md#info-1)
 - [CLIENT LIBRARIES](https://prometheus.io/docs/instrumenting/clientlibs/)
+- [技术分享：Prometheus是怎么存储数据的（陈皓）](https://www.youtube.com/watch?v=qB40kqhTyYM)
