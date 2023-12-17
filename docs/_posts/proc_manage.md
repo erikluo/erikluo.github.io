@@ -31,3 +31,4 @@ foreman start
 可能是由于foreman比较简单好用吧，相比于supervisor来说。 其它各语言也实现了foreman的翻版。如：
 - [Honcho: a python clone of Foreman. For managing Procfile-based applications.](https://github.com/nickstenning/honcho)
 - [Foreman in Go](https://github.com/ddollar/forego)
+- [nginx-proxy 使用的forego版本](https://github.com/nginx-proxy/forego)
