@@ -32,3 +32,7 @@ foreman start
 - [Honcho: a python clone of Foreman. For managing Procfile-based applications.](https://github.com/nickstenning/honcho)
 - [Foreman in Go](https://github.com/ddollar/forego)
 - [nginx-proxy 使用的forego版本](https://github.com/nginx-proxy/forego)
+
+使用foreman的项目：
+- [Wooey 使用honcho启动web和worker](https://wooey.readthedocs.io/en/latest/running_wooey.html#through-a-procfile)
+- [nginx-proxy 使用forego启动nginx和docker-gen](https://github.com/nginx-proxy/nginx-proxy/blob/main/Dockerfile)
