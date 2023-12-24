@@ -1,13 +1,13 @@
 # HttpAPI规范及生态组件
 ## 背景
 随着业务的增多，越来越多的服务需要提供http协议的API接口供第三方调用， 由于http api并不像trpc协议那样有一个通用的协议规范来定义约束接口， 通常API开发者需要提供一份API文档来说明每个API的详细参数。
-如：[腾讯于API文档](https://cloud.tencent.com/document/product/213/15692) 等， 这些文档分散在各个地方，缺乏统一的管理，并且每篇文档的撰写风格也不一样，这就增加了API调用方的接入负担。。。
+如：[腾讯云API文档](https://cloud.tencent.com/document/product/213/15692) 等， 这些文档分散在各个地方，缺乏统一的管理，并且每篇文档的撰写风格也不一样，这就增加了API调用方的接入负担。。。  
 总结一下，现有的API管理体系存在这如下缺点： 
 
-● 标准不统一，管理混乱
-● 接口频繁变更，更新不及时
-● 开发者接入体验不友好
-● 人工编写文档耗时长
+- 标准不统一，管理混乱  
+- 接口频繁变更，更新不及时  
+- 开发者接入体验不友好  
+- 人工编写文档耗时长  
 
 ## 业界规范
 为了解决上述问题，业界制定了一些规范标准(定义了一个与语言无关的标准接口，允许人和计算机发现和理解服务的功能，而无需通过访问源代码、文档或开发者工具)。
@@ -37,8 +37,7 @@ openapi的前身是Swagger,其官网中也有最新的openAPI的规范定义
 ### 开源工具
 |API规范|	API文档化|	API代码生成	|API测试	|API可视化编辑	|其它|
 |--------|--------|--------|--------|--------|--------|
-|OpenAPI|	[swagger-ui](https://github.com/swagger-api/swagger-ui)[openapi-generator](https://github.com/OpenAPITools/openapi-generator)
- [apicurio-studio](https://github.com/Apicurio/apicurio-studio) [redoc](https://github.com/Redocly/redoc) [elements](https://github.com/stoplightio/elements)|	[swagger-codegen](https://github.com/swagger-api/swagger-codegen) [openapi-generator](https://github.com/OpenAPITools/openapi-generator) [scalar](https://github.com/scalar/scalar) |[swagger-ui](https://github.com/swagger-api/swagger-ui)	| [swagger-editor](https://github.com/swagger-api/swagger-editor) [apicurio-studio](https://github.com/Apicurio/apicurio-studio)	| [swagger-faker](https://github.com/reeli/swagger-faker) [go-swagger](https://github.com/go-swagger/go-swagger) [从go源码生成SPEC](https://github.com/go-swagger/go-swagger#generate-a-spec-from-source)|
+|OpenAPI|	[swagger-ui](https://github.com/swagger-api/swagger-ui) [openapi-generator](https://github.com/OpenAPITools/openapi-generator)  [apicurio-studio](https://github.com/Apicurio/apicurio-studio) [redoc](https://github.com/Redocly/redoc) [elements](https://github.com/stoplightio/elements)|	[swagger-codegen](https://github.com/swagger-api/swagger-codegen) [openapi-generator](https://github.com/OpenAPITools/openapi-generator) [scalar](https://github.com/scalar/scalar) |[swagger-ui](https://github.com/swagger-api/swagger-ui)	| [swagger-editor](https://github.com/swagger-api/swagger-editor) [apicurio-studio](https://github.com/Apicurio/apicurio-studio)	| [swagger-faker](https://github.com/reeli/swagger-faker) [go-swagger](https://github.com/go-swagger/go-swagger) [从go源码生成SPEC](https://github.com/go-swagger/go-swagger#generate-a-spec-from-source)|
 |Raml| | |[raml2html](https://github.com/raml2html/raml2html)	|[playground](https://github.com/raml-org/playground)	|[webapi-parser](https://github.com/raml-org/webapi-parser)|
 |API blueprint|	| |	[dredd](https://github.com/apiaryio/dredd)	| |[drakov](https://github.com/Aconex/drakov)|
 
@@ -46,7 +45,7 @@ openapi的前身是Swagger,其官网中也有最新的openAPI的规范定义
 #### 1.[国内]APIFox
 功能比较强大，提供了API设计、开发、测试一体化协作平台。  
 
-[官网：](https://apifox.com/)
+[官网](https://apifox.com/)
 
 APIhub中，提供了各大互联网公司常见产品的API文档， 如[企业微信API](https://qiyeweixin.apifox.cn/api-10061204)
 
@@ -54,12 +53,12 @@ APIhub中，提供了各大互联网公司常见产品的API文档， 如[企业
 
 号称世界上最大的API中心。  
 
-[官网：](https://rapidapi.com/)
+[官网](https://rapidapi.com/)
 
 #### 3. [国外]Stoplight
 Stoplight 是一款全面的 API 开发平台，包括 API 设计、文档化、测试和发布等环节。它提供了一个直观、易于使用的界面，支持多种 API 设计语言和规范，例如 OpenAPI、Swagger 和 RAML 等。 
 
-[官网：](https://stoplight.io/)
+[官网](https://stoplight.io/)
 
 
 ## 基于Swagger的API管理方案设计
@@ -70,6 +69,7 @@ swagger是OpenAPI的前身，生态组件非常丰富。
 
 例如唐僧叨叨的API文件就是基于swagger实现的： 
 - [唐僧叨叨的API](https://apidocs.botgate.cn/)
+  
  
 ### 整体架构
 
