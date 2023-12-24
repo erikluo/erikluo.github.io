@@ -35,65 +35,57 @@ openapi的前身是Swagger,其官网中也有最新的openAPI的规范定义
 
  
 ### 开源工具
-API规范	API文档化	API代码生成	API测试	API可视化编辑	其它
-OpenAPI	https://github.com/swagger-api/swagger-ui
-https://github.com/OpenAPITools/openapi-generator
-https://github.com/Apicurio/apicurio-studio
-https://github.com/Redocly/redoc
-https://github.com/stoplightio/elements	https://github.com/swagger-api/swagger-codegen
-https://github.com/OpenAPITools/openapi-generator
-https://github.com/scalar/scalar	https://github.com/swagger-api/swagger-ui	https://github.com/swagger-api/swagger-editor
-https://github.com/Apicurio/apicurio-studio	https://github.com/reeli/swagger-faker
-Raml	https://github.com/raml2html/raml2html			https://github.com/raml-org/playground	https://github.com/raml-org/webapi-parser
-API blueprint			https://github.com/apiaryio/dredd		https://github.com/Aconex/drakov
+|API规范|	API文档化|	API代码生成	|API测试	|API可视化编辑	|其它|
+|--------|--------|--------|--------|--------|--------|
+|OpenAPI|	[swagger-ui](https://github.com/swagger-api/swagger-ui)[openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+ [apicurio-studio](https://github.com/Apicurio/apicurio-studio) [redoc](https://github.com/Redocly/redoc) [elements](https://github.com/stoplightio/elements)|	[swagger-codegen](https://github.com/swagger-api/swagger-codegen) [openapi-generator](https://github.com/OpenAPITools/openapi-generator) [scalar](https://github.com/scalar/scalar) |[swagger-ui](https://github.com/swagger-api/swagger-ui)	| [swagger-editor](https://github.com/swagger-api/swagger-editor) [apicurio-studio](https://github.com/Apicurio/apicurio-studio)	| [swagger-faker](https://github.com/reeli/swagger-faker) [go-swagger](https://github.com/go-swagger/go-swagger) [从go源码生成SPEC](https://github.com/go-swagger/go-swagger#generate-a-spec-from-source)|
+|Raml| | |[raml2html](https://github.com/raml2html/raml2html)	|[playground](https://github.com/raml-org/playground)	|[webapi-parser](https://github.com/raml-org/webapi-parser)|
+|API blueprint|	| |	[dredd](https://github.com/apiaryio/dredd)	| |[drakov](https://github.com/Aconex/drakov)|
 
 ### 商业化产品
 #### 1.[国内]APIFox
-功能比较强大，提供了API设计、开发、测试一体化协作平台。 
-官网： https://apifox.com/  
+功能比较强大，提供了API设计、开发、测试一体化协作平台。  
+
+[官网：](https://apifox.com/)
 
 APIhub中，提供了各大互联网公司常见产品的API文档， 如[企业微信API](https://qiyeweixin.apifox.cn/api-10061204)
 
 #### 2. [国外]RapidAPI
+
 号称世界上最大的API中心。  
-官网：https://rapidapi.com/
+
+[官网：](https://rapidapi.com/)
 
 #### 3. [国外]Stoplight
 Stoplight 是一款全面的 API 开发平台，包括 API 设计、文档化、测试和发布等环节。它提供了一个直观、易于使用的界面，支持多种 API 设计语言和规范，例如 OpenAPI、Swagger 和 RAML 等。 
 
-官网：https://stoplight.io/
+[官网：](https://stoplight.io/)
 
 
 ## 基于Swagger的API管理方案设计
 ### swagger生态组件
-swagger是OpenAPI的前身，生态组件非常丰富。
+swagger是OpenAPI的前身，生态组件非常丰富。  
+
 ![](https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/openapi-swagger.drawio.png)
 
 例如唐僧叨叨的API文件就是基于swagger实现的： 
 - [唐僧叨叨的API](https://apidocs.botgate.cn/)
  
 ### 整体架构
+
+
 ![](https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/api-arch.drawio.png)
 
 
+## Swagger一些命令备忘
 
-
-## API SPEC
-- [OpenAPI规范](https://github.com/OAI/OpenAPI-Specification)
-- [Swagger Open Source](https://github.com/swagger-api)
-- [go-swagger](https://github.com/go-swagger/go-swagger)
-- [apifox](https://apifox.com/)
-
-## Swagger
-如何查看?
+API可视化
 ```
 docker run --rm -p 80:8080 swaggerapi/swagger-ui
 ```
-如何可视化编辑?
+
+可视化编辑API SPEC文件
 ```
 docker run --rm -p 80:8080 swaggerapi/swagger-editor
 ```
 
-如何生成API SPEC文件？
-- 手写yaml
-- [从go源码生成](https://github.com/go-swagger/go-swagger#generate-a-spec-from-source)
