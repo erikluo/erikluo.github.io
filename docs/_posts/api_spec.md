@@ -31,7 +31,7 @@ openapi的前身是Swagger,其官网中也有最新的openAPI的规范定义
 
 ## 生态工具
 有了API定义规范，即可基于此设计出一系列工具，包括代码生成、API文档生成及展示、API测试、API模拟等。  
-[API生态工具](!https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/openapi-tools.drawio.png)
+![API tools](https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/openapi-tools.drawio.png)
 
  
 ### 开源工具
@@ -48,29 +48,33 @@ Raml	https://github.com/raml2html/raml2html			https://github.com/raml-org/playgr
 API blueprint			https://github.com/apiaryio/dredd		https://github.com/Aconex/drakov
 
 ### 商业化产品
-#### [国内]APIFox
-功能比较强大，提供了API设计、开发、测试一体化协作平台。
-官网： https://apifox.com/
-APIhub中，提供了各大互联网公司常见产品的API文档， 如企业微信：https://qiyeweixin.apifox.cn/api-10061204
+#### 1.[国内]APIFox
+功能比较强大，提供了API设计、开发、测试一体化协作平台。 
+官网： https://apifox.com/  
 
-#### [国外]RapidAPI
-号称世界上最大的API中心。
+APIhub中，提供了各大互联网公司常见产品的API文档， 如[企业微信API](https://qiyeweixin.apifox.cn/api-10061204)
+
+#### 2. [国外]RapidAPI
+号称世界上最大的API中心。  
 官网：https://rapidapi.com/
 
-#### [国外]Stoplight
-Stoplight 是一款全面的 API 开发平台，包括 API 设计、文档化、测试和发布等环节。它提供了一个直观、易于使用的界面，支持多种 API 设计语言和规范，例如 OpenAPI、Swagger 和 RAML 等。
+#### 3. [国外]Stoplight
+Stoplight 是一款全面的 API 开发平台，包括 API 设计、文档化、测试和发布等环节。它提供了一个直观、易于使用的界面，支持多种 API 设计语言和规范，例如 OpenAPI、Swagger 和 RAML 等。 
+
 官网：https://stoplight.io/
 
 
 ## 基于Swagger的API管理方案设计
-swagger生态组件
+### swagger生态组件
 swagger是OpenAPI的前身，生态组件非常丰富。
+![](https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/openapi-swagger.drawio.png)
 
+例如唐僧叨叨的API文件就是基于swagger实现的： 
+- [唐僧叨叨的API](https://apidocs.botgate.cn/)
  
-整体架构
+### 整体架构
+![](https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/api-arch.drawio.png)
 
- 
-[http://9.135.117.247:8080](https://apidocs.botgate.cn/)
 
 
 
