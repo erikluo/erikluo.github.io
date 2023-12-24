@@ -16,7 +16,7 @@
   - [各语言实现的有价值项目汇总](_posts/lang_proj.md)
   
 - 后台架构
-  - [API规范](_posts/api_spec.md)
+  - [HttpAPI规范及生态组件](_posts/api_spec.md)
   - [k8s搭建](_posts/2022-05-29-k8s搭建.md)
   - [Nginx配置备忘](_posts/2022-05-29-Nginx配置教程.md)
   - [MySql备忘](_posts/2022-06-01-MySql.md)
