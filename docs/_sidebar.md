@@ -121,5 +121,6 @@
   - [电子书资源](_posts/ebooks.md)
   - [推荐书籍](_posts/recommand_books.md)
   - [技术分享](_posts/tech_share.md)
+  - [优秀博客](_posts/good_blog.md)
   - [github聚合项目](_posts/github_daily.md)
 
