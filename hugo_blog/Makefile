@@ -10,6 +10,13 @@ server:
 dev:
 	cd quickstart && hugo server -D
 
+publish:
+	# 运行 hugo 命令 并不会 删除之前生成的文件。所以必须在运行 hugo 命令之前删除你的 public/ 目录
+	cd quickstart && rm -rfv public/ && hugo
+
+deploy: publish
+	cd quickstart && rsync -av ./public/    rsync://xiaozhi@sing2.tool333.com:8873/volume
+
 install_hugo:
 	wget -O - "$(HUGO_ADDR)" | tar -xzf - -C /usr/local/bin/ hugo && chmod +x /usr/local/bin/hugo
 

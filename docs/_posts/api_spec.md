@@ -41,6 +41,12 @@ openapi的前身是Swagger,其官网中也有最新的openAPI的规范定义
 |Raml|[raml2html](https://github.com/raml2html/raml2html)	|||[playground](https://github.com/raml-org/playground)	|[webapi-parser](https://github.com/raml-org/webapi-parser)|
 |API blueprint|	| |	[dredd](https://github.com/apiaryio/dredd)	| |[drakov](https://github.com/Aconex/drakov)|
 
+### 开源产品
+#### YApi
+YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API，YApi 还为用户提供了优秀的交互体验，开发人员只需利用平台提供的接口数据写入工具以及简单的点击操作就可以实现接口的管理。
+
+- [github](https://github.com/YMFE/yapi)
+
 ### 商业化产品
 #### 1.[国内]APIFox
 功能比较强大，提供了API设计、开发、测试一体化协作平台。  
