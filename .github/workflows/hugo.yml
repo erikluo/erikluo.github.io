@@ -63,6 +63,6 @@ jobs:
       - uses: GuillaumeFalourd/setup-rsync@v1.2
       - name: rsyn to remote site
         env:
-          RSYNC_PASSWORD: ${{ HUGO_XIAOZHI_PASS }}
+          RSYNC_PASSWORD: ${{ secrets.HUGO_XIAOZHI_PASS }}
         run: rsync -av ./hugo_blog/quickstart/public/    rsync://xiaozhi@sing2.tool333.com:8873/volume
 
