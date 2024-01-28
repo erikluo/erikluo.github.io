@@ -36,3 +36,12 @@ Stable Diffusion  是 Stability AI 公司和 Runway 公司合作开发的文生�
 ！[](/images/2024-01-21/sd-v2-list.png)
 
 ## 安装
+
+## ControlNet
+
+顾名思义，ControlNet 用于控制 扩散模型， 
+- [ControlNet github](https://github.com/lllyasviel/ControlNet)
+- [ControlNet-v1-1-nightly github](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
+
+ControlNet提供了很多模型，如 LineArt Canny
+- [ControlNet models](https://huggingface.co/lllyasviel/ControlNet-v1-1)
