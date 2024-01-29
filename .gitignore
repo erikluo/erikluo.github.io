@@ -1,2 +1,3 @@
 **/*.tar.gz
 hugo_blog/quickstart/public/
+hugo_blog/quickstart/resources/_gen/
