@@ -5,6 +5,10 @@ newsite:
 	cd quickstart && rm -rfv .git/ .gitmodules
 newcontent:
 	cd quickstart && hugo new content post/my-first-post.md
+
+theme-loveit:
+	cd quickstart && git init && git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt && rm -rfv .git/ .gitmodules
+	
 server:
 	cd quickstart && hugo server 
 dev:
