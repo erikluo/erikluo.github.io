@@ -29,6 +29,11 @@ openapi的前身是Swagger,其官网中也有最新的openAPI的规范定义
 - [api blueprint官网](https://apiblueprint.org/)
 - [api blueprint 规范描述](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md)
 
+### RestAPI 设计规范参考
+- [一把梭：REST API 全用 POST](https://coolshell.cn/articles/22173.html)
+- [微软 Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+- [Google Guidelines](https://cloud.google.com/apis/design?hl=zh-cn)
+
 ## 生态工具
 有了API定义规范，即可基于此设计出一系列工具，包括代码生成、API文档生成及展示、API测试、API模拟等。  
 ![API tools](https://github.com/erikluo/erikluo.github.io/blob/main/docs/img/openapi-tools.drawio.png)
