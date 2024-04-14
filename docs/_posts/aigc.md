@@ -57,6 +57,9 @@
     - [starcoder github](https://github.com/bigcode-project/starcoder)
     - [vscode 插件](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode)
     - [量化](https://github.com/mayank31398/GPTQ-for-SantaCoder)
+* Github Copilot 开源替代插件
+    - [cody AI](https://github.com/sourcegraph/cody)
+    - [llama-coder](https://github.com/ex3ndr/llama-coder)
 
 ### AI医生
 * [DoctorGPT is an LLM that can pass the US Medical Licensing Exam](https://github.com/llSourcell/DoctorGPT) 
