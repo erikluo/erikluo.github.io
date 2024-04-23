@@ -20,6 +20,12 @@
 * [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 * [AI 平台 HuggingFace 自家的 AI 聊天页面，底层可以配置不同模型](https://huggingface.co/chat/)
 
+### LLM 知识库
+
+* [Dify](https://github.com/langgenius/dify)
+* [ChuanhuGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+* [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+* [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 
 ### AI绘画
 * Stable Diffusion
@@ -45,6 +51,7 @@
 
 
 ### AI编程
+* [MetaGPT](https://github.com/geekan/MetaGPT)
 * Copilot
 * Copilot X
 * [FauxPilot-Copilot开源替代方案](https://github.com/fauxpilot/fauxpilot)
