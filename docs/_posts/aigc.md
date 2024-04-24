@@ -29,6 +29,8 @@
 * LangeChain
      - [langchain](https://github.com/langchain-ai/langchain)
      - [langchain go版本](https://github.com/tmc/langchaingo)
+* 对接各类平台（微信 钉钉 飞书）的机器人
+     - [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
 
 ### RAG（检索增强生成）
 
