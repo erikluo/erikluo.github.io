@@ -26,6 +26,17 @@
 * [ChuanhuGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 * [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
 * [anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+* LangeChain
+     - [langchain](https://github.com/langchain-ai/langchain)
+     - [langchain go版本](https://github.com/tmc/langchaingo)
+
+### RAG（检索增强生成）
+
+* [perplexity](https://www.perplexity.ai/)
+* [search_with_lepton](https://github.com/leptonai/search_with_lepton)
+
+### Multi-Agent 
+* [MetaGPT  基于AI的软件公司](https://github.com/geekan/MetaGPT)
 
 ### AI绘画
 * Stable Diffusion
