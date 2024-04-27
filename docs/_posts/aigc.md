@@ -56,6 +56,9 @@
     - [DragGAN-colab](https://github.com/camenduru/DragGAN-colab)
     - [DragGAN github](https://github.com/XingangPan/DragGAN)
 
+### AI换装穿衣
+- [OOTDiffusion github](https://github.com/levihsu/OOTDiffusion)
+- [OOTDiffusion replicate](https://replicate.com/viktorfa/oot_diffusion)
 
 ### AI写作
 * Notion AI
