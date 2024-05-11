@@ -1,4 +1,6 @@
 # http/https 代理技术原理
+搭建的 API管理平台 yapi，由于测试api时需要在本地安装浏览器插件比较麻烦， 就考虑在网关做个代理， 这里需要实现一个 http 代理服务器， 故对http/https的代理原理进行了一些调研。
+
 注意点：
 代理服务器在处理http https代理时原理约有不同： http纯转发， https转发前多一步Connect操作。
 
