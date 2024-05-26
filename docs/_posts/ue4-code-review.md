@@ -374,6 +374,34 @@ class FMyClass
 现在， TSet 和 TMap 在散列键时将使用适当的散列函数。如您使用指针作为键（即 TSet<FMyClass*>），也将实现 uint32 GetTypeHash(const FMyClass* MyClass)。
 
 
+## UE4 类型系统
+
+在编译之前，通过UHT扫描头文件中特定的宏来生成相关代码（*.generated.h / *.gen.cpp），然后再一起编译链接进游戏，来生成类型系统、扩展语言修饰符和收集元数据UMetaData
+
+
+类型系统在对象之外，提供了一个静态信息载体，不仅描述了对象自身，还能构建起来对象之间的派生从属关系
+
+通过查询类型系统数据，可实现强大的运行时类型识别（RTTI，Run-Time Type Identification）。例如：根据类型创建对象，遍历和修改属性成员，根据名字来调用函数。
+
+默认对象（Class Default Object，简称CDO）、反射（Reflection）、垃圾回收（Garbage Collection，简称GC）、序列化（Serialization）都是在类型系统的基础上实现的
+
+ 
+
+通过修饰符来在编程语言层面扩展c++能力，引擎底层提供对修饰符实现，与引擎深度结合，程序员可通过配置修饰符让对象、属性或函数拥有更强大的能力
+
+修饰符可优雅地实现c++与蓝图的互操作、编辑器支持、网络同步等方面的功能
+
+例如：Config修饰符来从指定ini文件中读取数据、Transient修饰符来指明不需要序列化、Exec修饰符来指明该函数可被控制台调用
+
+Replicated修饰符给属性加上同步属性、Server修饰符表明该函数为一个对服务端的RPC调用，等等
+
+ 
+
+元数据UMetaData其实就是个键值对的集合，用于为编辑器提供分类、友好名字、提示等信息，Android、IOS、DS版本不包含此信息（相关逻辑包裹在宏WITH_EDITORONLY_DATA中）
+
+![ue4-type-system](img/ue4-type-system.png)
+
+
 ## UE4 中的类
 
 ### 1. 常见的类
