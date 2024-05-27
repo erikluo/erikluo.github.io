@@ -252,5 +252,6 @@ classDiagram
 ## 参考
 
 - [《UE4 Notes》网络同步相关（三）Actor网络同步](https://zhuanlan.zhihu.com/p/664380554)
+- [UE4属性同步 —— 服务器同步属性（二](https://juejin.cn/post/7126863871280676871)
 
 
