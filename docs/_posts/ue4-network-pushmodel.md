@@ -17,7 +17,7 @@ NetDriver是网络处理的核心类，有三种类型的Driver：
 - 
 通常一个游戏，服务器只有一个Game NetDriver，NetDriver管理NetConnection列表，一个NetConnection就是一个玩家。Netconnection负责同步玩家所有channel的数据，包括一个语音数据channel，一个控制channel，所有同步actor的channel。 NetDriver通过Fsocket和socketSubSystem来完成网络状态查询、发包、收包。
 
-![ue4-netdriver](img/[ue4-netdriver.png)
+![ue4-netdriver](img/ue4-netdriver.png)
 
 **FObjectReplicator**
 
