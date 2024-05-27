@@ -5,6 +5,20 @@
 
 ## 核心类简介
 
+**UNetDriver**
+
+UE网络同步框架是基于UNetDriver/UNetConnection/UChannel来组织网络同步，其中从UChannel派生一个子类ActorChannel专用于Actor的网络同步，其他包括Subobject、Struct、UObject等等都是基于Actor的ActorChannel来实现同步.
+
+NetDriver是网络处理的核心类，有三种类型的Driver：
+
+- The Game NetDriver：负责主要的游戏网络交换
+- The Demo NetDriver：记录数据，不会发送数据，用于回放重播系统。
+- The Beacon NetDriver：负责除了游戏外的一些网络交互。
+- 
+通常一个游戏，服务器只有一个Game NetDriver，NetDriver管理NetConnection列表，一个NetConnection就是一个玩家。Netconnection负责同步玩家所有channel的数据，包括一个语音数据channel，一个控制channel，所有同步actor的channel。 NetDriver通过Fsocket和socketSubSystem来完成网络状态查询、发包、收包。
+
+![ue4-netdriver](img/[ue4-netdriver.png)
+
 **FObjectReplicator**
 
 对于需要做网络同步的Actor/Subobject，ActorChannel会为其创建ObjectReplicator，统筹实现并管理其网络同步状态和逻辑，具体如下：
@@ -252,6 +266,6 @@ classDiagram
 ## 参考
 
 - [《UE4 Notes》网络同步相关（三）Actor网络同步](https://zhuanlan.zhihu.com/p/664380554)
-- [UE4属性同步 —— 服务器同步属性（二](https://juejin.cn/post/7126863871280676871)
+- [UE4属性同步 —— 服务器同步属性（二)](https://juejin.cn/post/7126863871280676871)
 
 
