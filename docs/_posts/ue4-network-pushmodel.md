@@ -14,10 +14,25 @@ NetDriver是网络处理的核心类，有三种类型的Driver：
 - The Game NetDriver：负责主要的游戏网络交换
 - The Demo NetDriver：记录数据，不会发送数据，用于回放重播系统。
 - The Beacon NetDriver：负责除了游戏外的一些网络交互。
-- 
-通常一个游戏，服务器只有一个Game NetDriver，NetDriver管理NetConnection列表，一个NetConnection就是一个玩家。Netconnection负责同步玩家所有channel的数据，包括一个语音数据channel，一个控制channel，所有同步actor的channel。 NetDriver通过Fsocket和socketSubSystem来完成网络状态查询、发包、收包。
+  
+通常一个游戏，服务器只有一个Game NetDriver，NetDriver管理NetConnection列表.
+
+UNetConnection，在DS进程中，对应于每个客户端连接。Netconnection负责同步玩家所有channel的数据，包括一个语音数据channel，一个控制channel，所有同步actor的channel。 NetDriver通过Fsocket和socketSubSystem来完成网络状态查询、发包、收包。
+
+UChannel，就是一个同步信道。对于一个客户端连接来说：
+
+- 0号Channel一定是UControlChannel。负责同步控制信息。
+
+- 1号 Channel一定是UVoiceChannel，用于同步语音信息。不过项目一般都不直接使用，而是通过外接其他语音组件的方式实现相关功能。
+
+- 2号及以上Channel就是UActorChannel了。每个和这个客户端相关的Actor都有一个对应的ActorChannel。
+
+每个Channel都会维持两个信道，可靠信道和一个非可靠信道。 可靠信道用于可靠RPC通信，非可靠信道用于非可靠RPC和属性同步通信。 可靠信道会保证有序，并实现了丢包重传。 非可靠信道并不会进行丢包重传，在感受到丢包后，对于属性同步，会将丢失的属性合并到下次属性同步的过程中。非可靠RPC就依赖下次RPC请求带来最新的状态信息。
 
 ![ue4-netdriver](img/ue4-netdriver.png)
+
+
+
 
 **FObjectReplicator**
 
