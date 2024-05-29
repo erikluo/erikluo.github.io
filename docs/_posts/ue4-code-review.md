@@ -442,6 +442,44 @@ Replicated修饰符给属性加上同步属性、Server修饰符表明该函数�
 
 ![ue4-class-uml](img/ue4-class-uml.png)
 
+## UE4 序列化
+
+**相关类**
+
+- UObject
+- FArchive
+- UPackage
+
+**原理**
+
+UE中的变量分为UPROPERTY()修饰的变量和普通C++变量两种，普通的C++变量在Runtime的时候进行读写，UPROPERTY宏修饰的变量可以在Editor中进行各类操作。UE中的序列化有2种：TaggedPropertySerializer(TPS)和UnversionedPropertySerializer(UPS)，仅研究TPS，
+
+TPS方式下，没有被 UPROPERTY标记的成员变量不参与序列化。TPS首先找到UClass中的持有FProperty属性的变量，这个FProperty属性保存着这个变量的名字，类型，类中的位置，meta修饰符数据 等等的数据情报。根据变量的FProperty属性，TPS会为其创建一个FPropertyTag的数据。
+UObject声明了两个Serialize()方法，其中Serialize(FArchive& Ar)用宏定义，
+
+```
+/** Object.h
+
+ * Handles reading, writing, and reference collecting using FArchive.
+ * This implementation handles all FProperty serialization, but can be overridden for native variables.
+ */
+virtual void Serialize(FArchive& Ar);
+virtual void Serialize(FStructuredArchive::FRecord Record);
+
+/** Obj.cpp
+IMPLEMENT_FARCHIVE_SERIALIZER(UObject)
+
+/** ObjectMacros.h
+#define IMPLEMENT_FARCHIVE_SERIALIZER( TClass ) void TClass::Serialize(FArchive& Ar) { TClass::Serialize(FStructuredArchiveFromArchive(Ar).GetSlot().EnterRecord()); }
+
+// 等价于：
+void UObject::Serialize(FArchive& Ar) 
+{ UObject::Serialize(FStructuredArchiveFromArchive(Ar).GetSlot().EnterRecord()); 
+}
+```
+
+
+
 ## 参考
 
 - https://brotherswei.github.io/index.html
