@@ -1,6 +1,12 @@
 # UE4 源码阅读笔记
 
-记录 UE4 源码阅读及学习笔记
+本文记录 UE4 源码阅读及学习笔记
+
+UE4 代码中自带 文档可可作为参考，文档源码：[Documentation](https://github.com/erikluo/UnrealEngine/tree/4.23/Engine/Documentation)
+
+文档可基于[https://github.com/erikluo/UnrealEngine/tree/4.23/Engine/Documentation/Extras](https://github.com/erikluo/UnrealEngine/tree/4.23/Engine/Documentation/Extras) 目录下的 bat 文件生成。
+
+不过由于该文档更多的是介绍 怎么操作 UE4-Editor，很少有技术原理介绍，所以参考价值不大。
 
 ## UE4 术语解释
 
@@ -483,3 +489,4 @@ void UObject::Serialize(FArchive& Ar)
 ## 参考
 
 - https://brotherswei.github.io/index.html
+- [UE4 RPC中的序列化](https://lawnight.github.io/server/serialization/)

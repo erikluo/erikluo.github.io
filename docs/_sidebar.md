@@ -98,6 +98,7 @@
 
 - Devops
   - [代码浏览工具](_posts/2022-06-05-code_in_sight.md)
+  - [我是怎么对代码进行注释的](_posts/how-to-code-notes.md)
   - [git备忘](_posts/2022-06-05-git_usage.md)
   - [github使用技巧](_posts/github_skills.md)
   - [p4备忘](_posts/p4_usage.md)
