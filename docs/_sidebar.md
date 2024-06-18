@@ -107,6 +107,7 @@
   - [make备忘](_posts/make_usage.md)
   - [bazel备忘](_posts/bazel_usage.md)
   - [文档格式转换](_posts/doc_convert.md)
+  - [性能工具](_posts/perf_tools.md)
 
 - 开发工具
   - [静态网站生成工具](_posts/2022-05-29-静态网站生成工具.md)
