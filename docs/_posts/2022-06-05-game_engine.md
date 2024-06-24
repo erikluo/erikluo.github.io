@@ -27,6 +27,12 @@ tags:
 
 - [Godot Engine – Multi-platform 2D and 3D game engine](https://github.com/godotengine/godot)
 
+## Bevy
+
+Rust 实现的游戏引擎
+
+- [bevy](https://github.com/bevyengine/bevy)
+
 ## cocos2d-x
 
 - [github](https://github.com/cocos2d/cocos2d-x)
