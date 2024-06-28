@@ -1,5 +1,6 @@
-## 网关整理
-评价标准
+# 服务网关
+
+## 评价标准
 - 主要用途
 - 成本
 - 配置语言
@@ -22,9 +23,19 @@
 
 根据具体的业务需求，流量网关通常选择C/C++派系，业务/API 网关选择其它派系。
 
-### k8s常用网关
+## k8s 云原生网关
+
+### CNCF 托管的官方云原生网关
+
 * [Envoy](https://github.com/envoyproxy/envoy)
-* [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+
+### 传统网关通过实现 Ingress Controller 成为云原生网关 
+
+* [ingress-nginx k8s 社区实现版本](https://github.com/kubernetes/ingress-nginx)
+* [kubernetes-ingress Nginx 官网实现的 ingress-nginx](https://github.com/nginxinc/kubernetes-ingress)
+* [Caddy Ingress Controller](https://github.com/caddyserver/ingress)
+
+  
 ### 表格
 
 | Column 1 |开源 |开发语言 |协议|鉴权|routing|限流|负载均衡算法|Metrics/Tracing|
