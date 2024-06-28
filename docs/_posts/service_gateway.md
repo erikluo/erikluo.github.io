@@ -27,7 +27,7 @@
 
 ### CNCF 托管的官方云原生网关
 
-* [Envoy](https://github.com/envoyproxy/envoy)
+* [Envoy](https://github.com/envoyproxy/envoy) 需要通过 [Istio](https://github.com/istio/istio)作为控制面
 
 ### 传统网关通过实现 Ingress Controller 成为云原生网关 
 
@@ -116,3 +116,6 @@
 - [Nginx 的两种限流方式](https://toutiao.io/posts/r9wf3f/preview)
 - [nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)
 - [Nginx 会话保持](https://www.jianshu.com/p/b97d276b8f6d)
+- [Istio 架构](https://istio.io/latest/zh/docs/ops/deployment/architecture/)
+- [都 2021 年了，对于服务网格，社区到底在讨论什么？](https://cloudnative.to/blog/jimmy-service-mesh-talk/)
+- [使用 Istio 和 Envoy 打造 Service Mesh 微服务架构](https://www.aneasystone.com/archives/2023/04/istio-envoy-service-mesh.html)
