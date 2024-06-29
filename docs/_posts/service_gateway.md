@@ -34,6 +34,8 @@
 * [ingress-nginx k8s 社区实现版本](https://github.com/kubernetes/ingress-nginx)
 * [kubernetes-ingress Nginx 官网实现的 ingress-nginx](https://github.com/nginxinc/kubernetes-ingress)
 * [Caddy Ingress Controller](https://github.com/caddyserver/ingress)
+* [Kong Controller]
+* [https://github.com/traefik/traefik](https://github.com/traefik/traefik)
 
   
 ### 表格
