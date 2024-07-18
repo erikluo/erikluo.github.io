@@ -37,3 +37,11 @@ Rust 实现的游戏引擎
 
 - [github](https://github.com/cocos2d/cocos2d-x)
 
+## H5 引擎
+
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)
+- [three.js JavaScript 3D Library.](https://github.com/mrdoob/three.js)
+- [PixiJS — The HTML5 Creation Engine](https://github.com/pixijs/pixijs)
+- [Phaser - HTML5 Game Framework](https://github.com/phaserjs/phaser/tree/v3.80.1)
+- [GDevelop Open-source, cross-platform 2D/3D/multiplayer game engine](https://github.com/4ian/GDevelop)
+
